@@ -1,0 +1,117 @@
+S.No.,Name,CMP(Rs),P/E,Mar Cap(Rs.Cr),Div Yld(%),NP Qtr(Rs.Cr),Qtr Profit Var(%),Sales Qtr(Rs.Cr.),Qtr Sales Var(%),ROCE(%),Company Name
+1.,Samvardh. Mothe.,206.25,48.76,139763.73,0.31,1444.00,634.60,27058.22,20.17,13.68,Auto Ancillaries
+2.,Bosch,34989.90,56.45,103197.96,1.07,564.50,41.48,4233.40,4.18,20.61,Auto Ancillaries
+3.,Uno Minda,1166.25,77.75,66961.90,0.17,301.72,48.11,3794.02,31.33,19.97,Auto Ancillaries
+4.,Exide Inds.,567.10,54.98,48203.50,0.34,185.70,2.56,4172.90,13.49,10.46,Auto Ancillaries
+5.,Sona BLW Precis.,672.10,81.50,39415.99,0.47,130.59,-10.77,793.40,13.51,23.76,Auto Ancillaries
+6.,Endurance Tech.,2745.60,56.74,38620.43,0.31,210.15,53.99,2684.78,20.16,17.61,Auto Ancillaries
+7.,Motherson Wiring,73.52,50.92,32503.95,0.88,191.44,38.25,2232.67,19.27,47.97,Auto Ancillaries
+8.,Amara Raja Ener.,1696.45,34.25,31049.31,0.58,228.03,30.98,2796.73,14.95,20.19,Auto Ancillaries
+9.,ZF Commercial,15978.95,75.70,30296.08,0.08,101.07,-0.14,955.52,-2.23,20.90,Auto Ancillaries
+10.,Sundram Fasten.,1405.50,56.61,29533.56,0.48,134.41,5.69,1466.48,1.28,18.53,Auto Ancillaries
+11.,JBM Auto,2145.50,141.91,25369.94,0.06,62.50,98.61,1485.95,47.12,14.63,Auto Ancillaries
+12.,HBL Power System,534.20,49.30,14807.77,0.09,81.21,174.77,610.09,51.53,34.42,Auto Ancillaries
+13.,Bombay Burmah,2068.30,20.32,14430.90,0.06,526.40,18286.79,4161.69,1.30,28.33,Auto Ancillaries
+14.,Craftsman Auto,5697.85,44.79,13592.56,0.20,70.53,-19.74,1105.34,12.75,19.99,Auto Ancillaries
+15.,Minda Corp,494.00,51.92,11810.48,0.27,70.75,-41.98,1214.98,13.07,15.10,Auto Ancillaries
+16.,Varroc Engineer,671.10,18.75,10253.49,0.00,58.37,43.51,1974.86,16.23,17.77,Auto Ancillaries
+17.,Shriram Pistons,1890.00,18.99,8325.42,0.27,116.46,28.03,855.56,22.05,28.28,Auto Ancillaries
+18.,ASK Automotive,395.65,44.85,7799.91,0.25,47.76,111.89,782.51,37.61,24.23,Auto Ancillaries
+19.,Sharda Motor,2590.00,26.14,7700.44,0.67,85.72,41.57,703.39,2.21,42.77,Auto Ancillaries
+20.,Sansera Enginee.,1377.95,40.03,7440.69,0.19,46.46,31.08,745.85,20.57,15.72,Auto Ancillaries
+21.,Suprajit Engg.,521.00,43.13,7213.83,0.44,59.15,44.23,783.12,12.03,13.91,Auto Ancillaries
+22.,Gabriel India,491.05,38.04,7053.63,0.51,52.71,56.13,858.63,16.51,26.89,Auto Ancillaries
+23.,Pricol Ltd,489.65,42.41,5967.89,0.00,41.50,39.26,584.16,11.59,23.83,Auto Ancillaries
+24.,JTEKT India,220.20,55.18,5599.32,0.27,34.30,31.02,632.08,19.22,17.34,Auto Ancillaries
+25.,Harsha Engg Intl,589.55,42.27,5367.47,0.16,37.59,2.15,297.53,20.10,13.58,Auto Ancillaries
+,Median: 111 Co.,491.05,36.69,1066.16,0.25,8.22,27.26,176.05,10.4,14.37,Auto Ancillaries
+26.,Jamna Auto Inds.,126.70,24.60,5054.58,1.46,54.77,4.34,640.15,0.99,30.42,Auto Ancillaries
+27.,Banco Products,689.60,18.18,4931.94,3.17,68.16,33.57,723.87,18.80,26.55,Auto Ancillaries
+28.,Subros,725.70,48.49,4734.16,0.25,30.43,66.47,831.51,11.15,16.50,Auto Ancillaries
+29.,L G Balakrishnan,1454.00,17.15,4564.44,1.22,67.82,31.74,606.96,16.05,22.74,Auto Ancillaries
+30.,Lumax Auto Tech.,587.90,30.83,4007.00,0.76,51.35,82.24,757.38,53.52,17.69,Auto Ancillaries
+31.,Steel Str. Wheel,235.60,14.24,3697.32,0.43,515.56,58.47,1068.67,6.34,17.50,Auto Ancillaries
+32.,Sandhar Tech,590.95,32.39,3557.02,0.42,35.86,47.39,917.83,19.98,12.05,Auto Ancillaries
+33.,Fiem Industries,1348.70,21.42,3549.66,1.47,46.22,21.54,557.52,27.80,26.67,Auto Ancillaries
+34.,Sundaram Clayton,1710.00,,3459.72,0.30,-47.34,,554.80,,-1.96,Auto Ancillaries
+35.,Automotive Axles,2080.15,18.92,3143.07,1.52,44.10,-13.21,571.52,-17.53,26.78,Auto Ancillaries
+36.,Lumax Industries,2914.00,24.55,2724.61,0.93,36.07,51.68,742.69,22.13,17.20,Auto Ancillaries
+37.,Federal-Mogul Go,435.65,19.08,2423.53,0.00,43.17,27.26,427.81,4.42,16.49,Auto Ancillaries
+38.,Divgi Torq,703.50,54.13,2151.52,0.48,9.21,-31.52,65.06,-11.29,9.50,Auto Ancillaries
+39.,Wheels India,865.60,31.20,2114.94,0.85,36.83,64.49,1164.19,-0.35,13.16,Auto Ancillaries
+40.,Talbros Auto.,339.15,26.79,2093.49,0.19,49.79,18.90,202.68,15.85,21.56,Auto Ancillaries
+41.,The Hi-Tech Gear,1017.00,51.30,1909.75,0.24,17.83,7.45,286.87,0.11,12.52,Auto Ancillaries
+42.,Precision Camshf,195.75,65.88,1859.33,0.51,3.35,-69.85,256.19,-8.03,6.01,Auto Ancillaries
+43.,GNA Axles,430.85,18.48,1849.67,1.40,16.75,-50.76,371.02,-3.32,15.34,Auto Ancillaries
+44.,India Nipp.Elec.,812.05,30.95,1836.99,1.23,20.42,43.70,195.68,23.87,12.80,Auto Ancillaries
+45.,Rico Auto Inds,135.50,45.76,1833.27,0.54,16.29,-39.93,548.41,-9.05,8.27,Auto Ancillaries
+46.,Automotive Stamp,1047.80,83.00,1661.82,0.00,7.62,126.11,232.48,10.65,46.18,Auto Ancillaries
+47.,Waaree Tech.,1375.00,,1480.61,0.00,-5.51,400.00,15.05,97.44,-67.67,Auto Ancillaries
+48.,Rane (Madras),891.80,13.34,1450.54,0.00,-9.37,-149.33,518.32,-16.61,6.30,Auto Ancillaries
+49.,Auto.Corp.of Goa,2370.00,37.60,1443.00,0.83,10.91,41.14,169.39,23.34,18.67,Auto Ancillaries
+50.,India Motor Part,1127.00,19.40,1406.50,2.14,19.33,-25.71,175.08,5.33,5.20,Auto Ancillaries
+,Median: 111 Co.,491.05,36.69,1066.16,0.25,8.22,27.26,176.05,10.4,14.37,Auto Ancillaries
+51.,RACL Geartech,1174.90,31.84,1266.75,0.13,8.42,-11.74,113.86,19.31,17.89,Auto Ancillaries
+52.,Enkei Wheels,663.00,47.73,1191.73,0.00,8.87,301.59,221.61,67.34,7.01,Auto Ancillaries
+53.,Jay Bharat Maru.,109.55,37.81,1185.85,0.64,11.12,-21.19,598.10,-11.18,9.45,Auto Ancillaries
+54.,IST,980.00,9.07,1143.09,0.00,24.62,30.68,28.95,-21.90,14.10,Auto Ancillaries
+55.,NDR Auto Compon.,905.15,27.97,1076.46,0.40,11.61,16.57,176.05,35.15,19.39,Auto Ancillaries
+56.,Sar Auto Prod.,2237.60,911.25,1066.16,0.00,-0.06,81.25,5.39,46.47,5.84,Auto Ancillaries
+57.,Z F Steering,1100.00,20.92,997.69,0.43,10.70,2.00,124.13,-0.80,11.90,Auto Ancillaries
+58.,Munjal Auto Inds,90.57,19.95,905.70,2.22,36.30,409.55,406.33,-15.84,14.77,Auto Ancillaries
+59.,Hind.Composites,531.35,22.81,784.78,0.38,7.97,-16.11,78.57,0.76,4.46,Auto Ancillaries
+60.,Rane Brake Lin.,999.15,18.73,772.30,3.02,15.39,35.44,186.22,12.95,20.51,Auto Ancillaries
+61.,Remsons Ind,1050.00,53.72,732.47,0.15,5.15,101.18,81.00,5.97,15.40,Auto Ancillaries
+62.,Munjal Showa,159.00,19.99,635.92,2.86,7.82,-39.57,294.29,-1.53,5.71,Auto Ancillaries
+63.,Uravi T & Wedge,569.60,294.16,626.56,0.00,0.55,252.78,11.08,50.54,9.86,Auto Ancillaries
+64.,Frontier Springs,1582.85,48.00,623.63,0.06,5.05,132.72,44.14,51.42,20.51,Auto Ancillaries
+65.,Pavna Industries,510.45,58.89,621.76,0.20,2.93,-44.05,81.45,-3.17,13.19,Auto Ancillaries
+66.,Autoline Industr,136.75,33.66,532.84,0.00,7.08,432.33,189.42,27.35,11.13,Auto Ancillaries
+67.,Thaai,228.60,94.91,528.75,0.00,8.22,,48.00,,,Auto Ancillaries
+68.,Shivam Autotech,42.70,,521.88,0.00,-7.82,29.29,123.74,7.19,2.82,Auto Ancillaries
+69.,Bharat Seats,156.85,19.78,492.51,1.05,8.08,9.63,278.10,-5.22,15.26,Auto Ancillaries
+70.,Menon Pistons,90.20,19.04,460.06,1.09,7.98,-9.42,52.55,12.74,22.67,Auto Ancillaries
+71.,Kinetic Engg.,207.05,87.91,458.86,0.00,0.96,-46.07,40.70,9.76,10.77,Auto Ancillaries
+72.,Pritika Auto,27.99,35.97,452.55,0.00,2.59,2.12,82.58,-6.33,11.91,Auto Ancillaries
+73.,Emmforce,194.00,97.25,397.71,0.00,4.09,,40.07,,,Auto Ancillaries
+74.,Ucal,178.85,,395.43,1.11,-18.05,-173.90,177.06,-4.55,2.52,Auto Ancillaries
+75.,Sintercom India,137.41,328.93,378.26,0.00,0.47,56.67,23.49,19.36,4.59,Auto Ancillaries
+,Median: 111 Co.,491.05,36.69,1066.16,0.25,8.22,27.26,176.05,10.4,14.37,Auto Ancillaries
+76.,Triton Valves,3178.00,133.87,376.14,0.00,0.92,136.95,105.04,8.71,8.54,Auto Ancillaries
+77.,Talbros Engg.,680.05,19.37,345.24,0.29,4.40,-6.18,102.85,-3.19,14.37,Auto Ancillaries
+78.,Goldstar Power,13.90,82.61,334.58,0.00,1.97,,21.71,,19.68,Auto Ancillaries
+79.,Omax Autos,149.30,1277.41,319.35,0.67,16.59,-65.27,103.99,12.71,5.19,Auto Ancillaries
+80.,Rane Engine Val.,430.85,20.21,311.70,1.15,4.74,21.11,149.82,10.40,13.18,Auto Ancillaries
+81.,PPAP Automotive,220.85,,311.11,0.68,-8.16,-257.89,135.70,2.59,1.48,Auto Ancillaries
+82.,Sundaram Brake,787.95,30.70,309.65,0.00,0.58,-73.15,89.03,-2.99,10.86,Auto Ancillaries
+83.,Jay Ushin,723.05,19.52,279.09,0.41,3.47,20.07,185.81,7.03,13.02,Auto Ancillaries
+84.,Sizemasters Tech,257.40,163.94,257.40,0.00,0.49,133.33,3.59,452.31,,Auto Ancillaries
+85.,IP Rings,200.90,,254.66,0.51,0.91,168.42,88.82,16.38,4.05,Auto Ancillaries
+86.,Jullundur Motor,108.78,11.87,248.49,1.85,7.48,-1.45,120.87,2.51,14.70,Auto Ancillaries
+87.,Samkrg Pistons,225.00,17.48,220.92,1.10,5.60,123.11,65.58,22.60,9.33,Auto Ancillaries
+88.,New Swan,107.50,21.80,204.42,0.00,4.45,,74.67,,,Auto Ancillaries
+89.,Shigan Quantum,111.00,37.40,201.24,0.00,3.55,,86.05,,13.38,Auto Ancillaries
+90.,Setco Automotive,14.97,,200.24,0.00,-29.37,25.44,165.05,48.09,1.31,Auto Ancillaries
+91.,Bharat Gears,113.40,,174.13,0.00,-1.75,-308.33,170.77,-4.86,2.00,Auto Ancillaries
+92.,Him Teknoforg.,204.35,22.59,160.72,0.20,3.70,20.13,98.91,3.55,8.37,Auto Ancillaries
+93.,Machino Plastics,235.00,39.10,144.29,0.00,1.23,583.33,81.83,1.41,8.47,Auto Ancillaries
+94.,SAL Automotive,501.00,23.56,120.14,0.80,0.93,-66.18,60.78,-34.02,13.71,Auto Ancillaries
+95.,Akar Auto Indust,108.85,21.38,117.43,0.45,0.96,-65.59,94.62,-6.94,17.71,Auto Ancillaries
+96.,Auto Pins (I),192.50,106.66,109.86,0.00,-0.07,-115.56,18.05,9.00,21.99,Auto Ancillaries
+97.,Hindustan Hardy,600.00,18.46,90.02,0.40,1.27,-18.59,18.05,3.14,27.49,Auto Ancillaries
+98.,Kranti Industrie,69.89,996.81,79.75,0.00,0.69,-86.57,21.46,-3.94,4.18,Auto Ancillaries
+99.,Precision Metal.,49.00,11.75,79.67,0.00,4.76,,131.54,,15.73,Auto Ancillaries
+100.,Jagan Lamps,95.75,23.80,69.90,0.00,1.14,14.00,14.12,-0.21,12.04,Auto Ancillaries
+,Median: 111 Co.,491.05,36.69,1066.16,0.25,8.22,27.26,176.05,10.4,14.37,Auto Ancillaries
+101.,SM Auto Stamping,51.00,23.42,69.81,2.45,1.76,,31.13,,23.01,Auto Ancillaries
+102.,Rasandik Engg.,115.90,10.64,69.25,0.00,12.73,786.13,18.96,-29.12,9.95,Auto Ancillaries
+103.,Mandeep Auto,63.10,30.62,65.23,0.00,1.49,,16.67,,,Auto Ancillaries
+104.,G S Auto Intl.,42.25,88.87,61.33,0.00,0.29,123.20,39.11,3.00,10.13,Auto Ancillaries
+105.,ASL Industries,53.00,110.42,55.21,0.00,-0.12,,0.00,,1.93,Auto Ancillaries
+106.,Containe Tech.,86.04,50.21,53.72,0.00,0.34,,5.59,,17.91,Auto Ancillaries
+107.,Ultra Wiring,92.40,24.66,48.08,0.00,0.53,,18.39,,14.74,Auto Ancillaries
+108.,Sibar Auto Parts,15.51,,25.63,0.00,-0.47,-687.50,4.88,-21.92,-6.63,Auto Ancillaries
+109.,Jainex Aamcol,160.00,46.17,24.00,0.00,0.31,72.22,6.12,18.38,10.77,Auto Ancillaries
+110.,PAE,4.11,,4.28,0.00,-0.16,-148.48,0.00,,,Auto Ancillaries
+111.,Spectra Industri,4.98,,3.53,0.00,-1.23,16.89,0.00,,-40.85,Auto Ancillaries
+,Median: 111 Co.,491.05,36.69,1066.16,0.25,8.22,27.26,176.05,10.4,14.37,Auto Ancillaries

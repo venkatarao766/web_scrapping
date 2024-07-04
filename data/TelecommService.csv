@@ -1,0 +1,19 @@
+S.No.,Name,CMP(Rs),P/E,Mar Cap(Rs.Cr),Div Yld(%),NP Qtr(Rs.Cr),Qtr Profit Var(%),Sales Qtr(Rs.Cr.),Qtr Sales Var(%),ROCE(%),Company Name
+1.,Bharti Airtel,1426.05,71.51,851610.86,0.28,2068.20,29.63,37599.10,4.42,13.13,Telecomm-Service
+2.,Vodafone Idea,17.64,,119738.34,0.00,-7674.60,-19.98,10606.80,0.71,-3.56,Telecomm-Service
+3.,Tata Comm,1890.10,50.06,53867.86,0.89,321.52,3.64,5691.70,24.58,17.55,Telecomm-Service
+4.,Bharti Hexacom,1068.50,83.65,53425.00,0.00,222.60,10.25,1868.00,7.82,14.30,Telecomm-Service
+5.,Railtel Corpn.,483.35,58.55,15512.55,0.53,77.53,41.03,832.70,19.39,20.30,Telecomm-Service
+6.,Tata Tele. Mah.,76.94,,15041.26,0.00,-309.34,-11.11,323.29,15.41,47.91,Telecomm-Service
+7.,Nazara Technolo.,911.05,102.98,6973.33,0.00,0.18,422.82,266.21,-7.99,5.93,Telecomm-Service
+8.,Hathway Cable,23.20,41.30,4106.65,0.00,34.57,413.42,493.37,7.35,3.36,Telecomm-Service
+9.,M T N L,40.87,,2574.81,0.00,-783.74,-4.70,209.02,-4.64,-8.26,Telecomm-Service
+10.,OnMobile Global,74.07,51.69,787.42,0.00,-0.68,-119.41,122.68,-4.31,4.66,Telecomm-Service
+11.,Reliance Communi,1.90,,525.45,0.00,-2127.00,-1366.67,92.00,-17.12,,Telecomm-Service
+12.,Nettlinx,106.75,31.69,258.10,0.18,3.47,5683.33,11.87,117.40,18.64,Telecomm-Service
+13.,GTL,14.45,6.05,227.29,0.00,136.20,61.59,65.69,39.80,,Telecomm-Service
+14.,Quadrant Tele.,2.76,,168.97,0.00,-31.83,-10.48,64.70,-14.69,,Telecomm-Service
+15.,Uniinfo Telecom,40.98,81.17,43.82,0.00,-0.36,-121.69,8.19,-32.92,2.66,Telecomm-Service
+16.,Accord Synergy,29.25,26.05,10.16,0.00,0.19,,16.32,,2.57,Telecomm-Service
+17.,City Online Ser.,6.29,,3.25,0.00,0.21,162.50,2.20,-25.17,21.37,Telecomm-Service
+,Median: 17 Co.,40.98,51.69,2574.81,0.0,0.19,6.95,209.02,2.56,9.53,Telecomm-Service

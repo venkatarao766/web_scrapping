@@ -1,0 +1,87 @@
+S.No.,Name,CMP(Rs),P/E,Mar Cap(Rs.Cr),Div Yld(%),NP Qtr(Rs.Cr),Qtr Profit Var(%),Sales Qtr(Rs.Cr.),Qtr Sales Var(%),ROCE(%),Company Name
+1.,Sun TV Network,786.25,16.11,30984.89,2.11,414.94,9.08,961.28,14.39,26.32,Entertainment
+2.,PVR Inox,1476.45,,14489.21,0.00,-129.70,60.66,1256.40,9.90,4.82,Entertainment
+3.,Zee Entertainmen,150.20,44.48,14427.05,0.00,13.35,115.54,2169.92,2.74,6.62,Entertainment
+4.,Saregama India,548.20,53.53,10580.79,0.73,53.90,23.37,263.05,29.16,19.41,Entertainment
+5.,TV18 Broadcast,45.39,,7781.49,0.00,-137.22,-363.12,2329.58,65.70,0.12,Entertainment
+6.,Tips Industries,458.40,46.05,5859.81,1.34,25.76,40.53,63.26,21.61,106.57,Entertainment
+7.,Wonderla Holiday,915.40,32.79,5178.71,0.27,22.61,-35.49,99.69,1.11,20.61,Entertainment
+8.,Prime Focus,150.30,,4507.07,0.00,-80.41,-136.76,873.10,-39.18,-0.54,Entertainment
+9.,Imagica. Enter.,77.26,123.77,4189.96,0.00,4.84,-96.91,56.63,5.08,3.40,Entertainment
+10.,Dish TV India,15.75,,2900.04,0.00,-1989.69,-1761.07,406.95,-19.39,,Entertainment
+11.,Den Networks,54.99,12.36,2624.26,0.00,77.05,-38.95,258.02,-8.80,7.30,Entertainment
+12.,Media Matrix,18.16,410.53,2057.08,0.00,2.34,1407.69,280.31,7.63,5.56,Entertainment
+13.,GTPL Hathway,177.95,18.68,2001.27,2.24,16.05,462.09,807.98,16.69,11.84,Entertainment
+14.,Vasu Bhagnani,310.00,162.11,1311.41,0.00,5.57,992.16,7.52,-54.20,15.05,Entertainment
+15.,Basilic Fly Stud,564.00,36.17,1310.74,0.00,17.27,,50.73,,146.95,Entertainment
+16.,Ent.Network,263.00,39.90,1253.76,0.38,8.85,219.04,150.66,20.04,5.64,Entertainment
+17.,Panorama Studios,920.80,32.29,1228.96,0.00,27.50,643.24,283.36,382.48,44.78,Entertainment
+18.,Zee Media,15.00,,938.15,0.00,-6.51,121.49,178.98,21.19,-18.34,Entertainment
+19.,Balaji Telefilms,70.30,36.81,713.74,0.00,-2.61,-136.25,135.11,-6.52,8.58,Entertainment
+20.,Nicco Parks,148.10,27.98,693.11,1.10,4.94,35.34,18.32,-3.02,40.06,Entertainment
+21.,Sri Adhik. Bros.,265.75,,674.29,0.00,-5.35,1.47,2.45,,,Entertainment
+22.,Phantom Digital,457.00,25.73,620.58,0.00,13.72,95.00,48.26,101.70,66.93,Entertainment
+23.,Music Broadcast,16.26,82.16,562.09,0.00,2.97,485.71,62.63,21.82,3.62,Entertainment
+24.,Raj Television,95.00,608.86,493.17,0.00,0.99,-34.44,16.20,-58.12,2.26,Entertainment
+25.,Cineline India,133.25,,456.61,0.00,-6.50,7.14,53.71,20.02,7.59,Entertainment
+,Median: 82 Co.,26.66,37.48,90.71,0.0,0.17,8.11,9.78,7.46,3.39,Entertainment
+26.,Shemaroo Entert.,160.55,,437.77,0.00,-13.91,-399.14,198.86,20.89,-0.10,Entertainment
+27.,NDL Ventures,96.70,200.98,325.61,2.06,0.32,28.00,0.00,,2.76,Entertainment
+28.,Digikore Studios,513.05,34.05,324.91,0.00,3.30,,20.20,,117.60,Entertainment
+29.,Tips Films,564.50,223.87,244.02,0.88,4.64,70.59,60.14,89.96,0.96,Entertainment
+30.,Diksat Transworl,137.55,229.81,241.30,0.00,2.88,,7.61,,3.33,Entertainment
+31.,Maxposure,103.75,34.55,235.93,0.00,4.16,,22.65,,30.64,Entertainment
+32.,Digicontent,37.64,38.16,219.01,0.00,6.06,385.85,118.00,29.15,20.04,Entertainment
+33.,Eros Intl.Media,19.75,,189.42,0.00,-52.80,-3.17,31.57,122.95,-3.64,Entertainment
+34.,BAG Films,9.42,46.85,186.42,0.00,-0.49,-122.90,40.35,8.44,6.99,Entertainment
+35.,Bodhi Tree,14.70,54.19,183.69,0.34,1.06,-67.48,21.86,-0.50,17.83,Entertainment
+36.,Mukta Arts,70.00,,158.09,0.00,-6.99,9.23,39.20,-5.08,9.07,Entertainment
+37.,Touchwood Enter.,142.00,43.47,157.36,0.26,1.45,27.19,20.93,-7.72,17.20,Entertainment
+38.,Baweja Studios L,83.60,18.73,154.05,0.00,3.87,,25.63,,53.78,Entertainment
+39.,Cinerad Communic,72.33,,138.59,0.00,-13.78,,0.73,,,Entertainment
+40.,Cinevista,17.85,,102.56,0.00,-1.97,90.95,0.01,,-2.66,Entertainment
+41.,Prit Nandy Comm.,65.00,38.86,94.06,0.00,1.11,166.87,28.87,4964.91,3.33,Entertainment
+42.,Radiowalla,123.95,56.73,87.36,0.00,0.60,,7.96,,36.82,Entertainment
+43.,G V Films,0.90,,82.27,0.00,0.35,139.33,0.00,-100.00,-2.27,Entertainment
+44.,Thinkink Picture,27.59,32.57,81.74,0.54,-1.24,-231.91,1.00,-94.76,4.99,Entertainment
+45.,Landmarc Leisur.,0.94,,75.20,0.00,-0.36,53.85,0.16,-73.33,-1.96,Entertainment
+46.,Shalimar Prod.,0.74,1040.63,72.84,0.00,0.57,200.00,1.18,47.50,0.10,Entertainment
+47.,Mediaone Global,48.00,18.88,70.66,0.00,-0.21,-117.65,5.43,-8.59,,Entertainment
+48.,Baba Arts,13.43,35.78,70.53,0.00,-0.02,-104.88,0.67,-9.46,11.20,Entertainment
+49.,Vels Film,50.00,,64.54,0.00,-19.68,,5.35,,-17.20,Entertainment
+50.,Siti Networks,0.68,,59.30,0.00,-72.90,14.57,322.66,-3.82,-49.90,Entertainment
+,Median: 82 Co.,26.66,37.48,90.71,0.0,0.17,8.11,9.78,7.46,3.39,Entertainment
+51.,City Pulse Multi,175.00,387.09,58.06,0.00,0.49,275.00,1.12,185.71,2.12,Entertainment
+52.,Next Mediaworks,7.05,,47.16,0.00,-14.48,-8.06,10.76,7.28,-10.38,Entertainment
+53.,Inspire,33.00,17.48,44.91,0.00,1.13,,9.08,,23.64,Entertainment
+54.,Colorchips New,23.35,,39.72,0.00,-0.16,71.93,0.20,166.67,-2.77,Entertainment
+55.,Epuja Spiritech,5.11,,39.67,0.00,-0.39,-290.00,0.22,,-3.86,Entertainment
+56.,Sadhna Broadcast,3.91,100.52,39.20,0.00,1.16,-81.99,3.88,-69.81,3.39,Entertainment
+57.,Cyber Media Ind,24.00,8.68,37.59,0.00,0.96,116.67,25.68,11.65,55.83,Entertainment
+58.,Picturehouse,7.03,,36.74,0.00,0.27,-79.05,0.00,-100.00,5.58,Entertainment
+59.,V R Films & Stud,25.73,,28.24,0.00,0.26,,7.50,,-0.24,Entertainment
+60.,TV Vision,7.11,,27.54,0.00,-5.53,-6.55,14.32,-15.62,,Entertainment
+61.,Ajwa Fun World,38.39,223.00,24.53,0.00,-0.09,-280.00,0.52,-33.33,12.15,Entertainment
+62.,Winpro Industrie,2.17,,21.69,0.00,-0.18,-350.00,0.00,,-1.08,Entertainment
+63.,Silly Monks,17.45,,17.82,0.00,0.24,106.28,5.37,67.29,2.24,Entertainment
+64.,Hathway Bhawani,20.46,,16.57,0.00,-0.01,-133.33,0.66,-5.71,-2.26,Entertainment
+65.,Unistar Multim.,6.06,5.11,15.15,0.00,0.51,-52.78,4.44,0.91,,Entertainment
+66.,Creative Eye,6.79,,13.62,0.00,-0.54,14.29,0.16,-33.33,-6.25,Entertainment
+67.,Radaan Media.,2.25,,12.18,0.00,3.24,47.27,11.87,100.85,11.63,Entertainment
+68.,Sea TV Network,9.70,,11.66,0.00,-0.03,-101.76,2.95,23.43,,Entertainment
+69.,BGIL Films & Tec,9.71,,11.00,0.00,0.06,136.36,0.00,,-4.49,Entertainment
+70.,Vision Cinemas,1.51,,10.69,0.00,-0.41,-485.71,0.00,,-1.24,Entertainment
+71.,Net Pix Shorts,33.00,264.00,10.56,0.00,1.80,,0.52,,0.94,Entertainment
+72.,Zinema Media,14.00,35.57,9.96,0.00,0.13,,0.24,,3.31,Entertainment
+73.,Vision Corpn.,4.10,,8.19,0.00,0.00,,4.70,670.49,0.09,Entertainment
+74.,SDC Techmedia,11.72,,7.61,0.00,-1.29,,5.48,,-12.99,Entertainment
+75.,Raconteur Global,21.50,5.83,6.47,0.00,-1.54,,0.00,,2.37,Entertainment
+,Median: 82 Co.,26.66,37.48,90.71,0.0,0.17,8.11,9.78,7.46,3.39,Entertainment
+76.,52 Weeks Enter.,1.78,36.52,6.22,0.00,-0.03,0.00,0.00,,0.87,Entertainment
+77.,Ortel Commu.,1.58,,5.21,0.00,-9.31,-278.46,10.47,-42.41,-13.42,Entertainment
+78.,Padmalaya Tele.,2.98,,5.06,0.00,-0.10,-100.00,0.00,,-1.32,Entertainment
+79.,Purple Entertain,4.81,34.64,4.15,0.00,-0.14,-300.00,0.00,,3.95,Entertainment
+80.,Universal Arts,3.42,,3.41,0.00,-0.04,50.00,1.00,,-2.81,Entertainment
+81.,Khyati Multimed.,3.06,36.68,3.30,0.00,0.21,,0.92,9100.00,5.13,Entertainment
+82.,Kome-on Commun.,1.89,,2.84,0.00,-0.02,0.00,0.00,,-9.42,Entertainment
+,Median: 82 Co.,26.66,37.48,90.71,0.0,0.17,8.11,9.78,7.46,3.39,Entertainment

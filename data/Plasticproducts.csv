@@ -1,0 +1,94 @@
+S.No.,Name,CMP(Rs),P/E,Mar Cap(Rs.Cr),Div Yld(%),NP Qtr(Rs.Cr),Qtr Profit Var(%),Sales Qtr(Rs.Cr.),Qtr Sales Var(%),ROCE(%),Company Name
+1.,Supreme Inds.,6092.50,74.93,77391.11,0.48,354.82,-1.28,3007.89,15.76,28.56,Plastic products
+2.,Astral,2378.85,117.10,63902.27,0.13,181.30,-9.69,1625.10,7.89,23.71,Plastic products
+3.,Finolex Inds.,329.70,44.93,20457.09,0.45,161.43,1.95,1235.42,8.27,11.51,Plastic products
+4.,Safari Inds.,2127.20,58.98,10373.74,0.13,43.19,13.42,365.42,20.72,31.22,Plastic products
+5.,Responsive Ind,313.60,51.83,8360.85,0.03,45.87,101.72,288.19,21.52,14.73,Plastic products
+6.,Prince Pipes,689.55,45.12,7623.72,0.00,54.65,-41.94,740.13,-3.18,14.99,Plastic products
+7.,Time Technoplast,331.50,24.23,7522.67,0.38,94.26,45.27,1394.32,16.94,15.98,Plastic products
+8.,Jai Corp,401.30,135.45,7161.16,0.13,23.47,228.35,122.74,-1.64,4.50,Plastic products
+9.,V I P Inds.,478.45,125.05,6792.68,0.94,-23.88,-160.23,516.32,14.59,10.35,Plastic products
+10.,Jain Irrigation,72.75,54.27,4936.22,0.00,-10.68,132.03,1726.57,-1.08,5.81,Plastic products
+11.,Shaily Engineer.,878.80,70.37,4030.86,0.00,19.34,94.76,170.56,26.81,13.97,Plastic products
+12.,Kingfa Science,2629.15,25.98,3184.05,0.00,33.55,-8.38,404.42,10.62,30.07,Plastic products
+13.,Nilkamal Ltd,1974.70,24.88,2946.27,1.02,35.57,-26.34,834.19,0.64,11.24,Plastic products
+14.,SJS Enterprises,851.25,31.11,2642.12,0.24,27.18,73.60,186.79,75.27,21.91,Plastic products
+15.,Apollo Pipes,635.60,61.90,2628.46,0.09,6.52,-56.62,245.79,-2.44,12.23,Plastic products
+16.,XPRO India,998.90,48.56,2201.02,0.20,12.43,226.70,128.41,3.33,16.98,Plastic products
+17.,Prakash Pipes,472.15,12.58,1129.30,0.25,25.36,28.34,164.71,5.67,32.69,Plastic products
+18.,Kriti Industries,189.45,42.85,939.65,0.11,3.60,-77.63,194.62,3.33,19.20,Plastic products
+19.,Arrow Greentech,581.35,29.91,877.16,0.17,10.03,-21.46,50.62,5.15,35.17,Plastic products
+20.,Kisan Mouldings,71.61,,855.49,0.00,89.89,142.68,59.48,-27.75,-13.37,Plastic products
+21.,Wim Plast,622.55,13.39,747.26,1.62,16.28,30.24,98.09,8.36,15.79,Plastic products
+22.,Shish Industries,132.35,55.92,471.13,0.00,3.95,320.21,25.72,33.13,21.34,Plastic products
+23.,Mahindra EPC,163.95,227.84,457.98,0.00,1.49,-45.77,71.17,0.30,3.12,Plastic products
+24.,Premier Polyfilm,215.00,21.88,450.37,0.23,6.70,49.55,69.46,8.74,30.59,Plastic products
+25.,Dhabriya Poly.,372.95,28.68,403.69,0.14,4.06,17.68,54.78,8.52,18.87,Plastic products
+,Median: 89 Co.,87.84,36.5,161.21,0.0,1.14,12.87,39.53,4.95,11.55,Plastic products
+26.,Cool Caps,340.00,100.01,393.04,0.00,0.14,14.67,71.81,30.96,11.11,Plastic products
+27.,OK Play India,13.34,249.81,387.23,0.00,-0.71,3.48,60.08,12.81,11.13,Plastic products
+28.,R M Drip & Sprin,155.00,71.56,387.19,0.00,4.83,,41.92,,36.85,Plastic products
+29.,Essen Speciality,173.25,25.18,358.61,0.00,1.96,-73.22,40.16,11.22,17.42,Plastic products
+30.,Multibase India,265.80,30.08,335.43,0.75,3.95,-20.36,14.65,-18.79,11.59,Plastic products
+31.,Captain Polyplas,57.01,19.02,315.72,0.00,4.75,84.11,68.77,-10.36,18.88,Plastic products
+32.,Kaka Industries,211.00,22.19,288.19,0.00,6.50,,82.64,,33.15,Plastic products
+33.,Pil Italica Life,12.01,61.21,282.24,0.00,0.55,-14.06,24.93,8.16,8.49,Plastic products
+34.,Captain Pipes,18.83,69.93,278.16,0.00,0.91,-5.21,20.26,-4.57,25.03,Plastic products
+35.,G M Polyplast,193.00,36.64,259.78,0.25,2.00,,48.68,,37.46,Plastic products
+36.,Signet Industrie,87.84,16.74,258.58,0.56,3.44,-23.89,344.13,10.11,14.62,Plastic products
+37.,National Plastic,400.95,28.96,243.78,0.26,2.18,20.44,69.20,30.08,18.05,Plastic products
+38.,Texmo Pipes,76.70,31.92,223.93,0.00,-6.78,93.47,85.02,-49.06,10.19,Plastic products
+39.,Mitsu Chem Plast,156.95,24.00,212.80,0.13,2.83,-14.24,82.27,-1.12,13.85,Plastic products
+40.,Rungta Irrigatn.,105.00,37.02,209.21,0.00,1.14,12.87,51.24,14.22,9.51,Plastic products
+41.,Prima Plastics,190.00,9.59,209.00,1.06,7.27,10.37,50.73,-6.73,16.96,Plastic products
+42.,Deep Polymers,85.82,29.18,207.54,0.00,1.19,-58.25,26.04,-7.59,9.49,Plastic products
+43.,Caprihans India,152.55,,200.30,0.00,-17.91,-543.32,190.98,-15.66,1.42,Plastic products
+44.,Tainwala Chem.,188.20,36.63,176.15,0.00,-0.44,84.40,0.79,-90.29,5.13,Plastic products
+45.,Royal Cush. Vin.,44.06,29.48,161.21,0.00,61.27,138.91,16.66,55.85,,Plastic products
+46.,Beardsell,38.53,19.18,151.96,0.25,0.91,-69.57,64.08,7.66,16.93,Plastic products
+47.,Master Component,333.05,49.70,133.22,0.00,1.67,,13.80,,28.75,Plastic products
+48.,Swashthik,74.80,17.42,131.40,0.00,2.65,,60.04,,18.57,Plastic products
+49.,KKalpana Inds.,13.50,184.03,127.01,0.00,0.86,79.17,12.77,-23.21,8.22,Plastic products
+50.,Avro India,119.95,29.96,121.00,0.00,0.88,1.15,22.52,31.62,17.35,Plastic products
+,Median: 89 Co.,87.84,36.5,161.21,0.0,1.14,12.87,39.53,4.95,11.55,Plastic products
+51.,Tokyo Plast Intl,122.45,116.33,116.33,0.00,-0.06,-110.34,16.96,-13.78,3.32,Plastic products
+52.,Dutron Polymers,183.55,44.96,110.13,0.82,0.12,-83.10,25.78,-7.99,13.21,Plastic products
+53.,AVSL Industries,202.85,45.25,108.14,0.00,1.78,,76.29,,9.24,Plastic products
+54.,Jasch Industries,154.50,11.74,105.03,0.00,0.77,-88.28,39.53,-27.51,13.99,Plastic products
+55.,Bright Brothers,155.00,,88.03,0.66,-0.22,80.00,65.47,38.50,1.87,Plastic products
+56.,Aik Pipes & Poly,126.00,23.51,80.17,0.00,1.60,,15.99,,22.99,Plastic products
+57.,Jain Irrigat-DVR,41.47,,80.01,0.00,20.42,85.30,1092.49,7.78,,Plastic products
+58.,Kshitij Polyline,7.99,45.23,72.84,0.00,1.52,2093.10,15.04,56.50,8.64,Plastic products
+59.,Rex Pipes&Cables,73.70,14.73,69.65,0.00,2.23,,71.09,,18.25,Plastic products
+60.,Innovative Tech,30.84,38.72,69.27,0.00,0.16,-40.74,34.82,-10.88,10.38,Plastic products
+61.,Sintex Plastics,1.06,,67.43,0.00,0.00,100.00,0.00,-100.00,-275.83,Plastic products
+62.,Polylink Poly.,28.80,36.81,63.68,0.00,0.79,102.56,22.39,59.36,9.03,Plastic products
+63.,Natl. Plastic,65.50,33.78,59.79,0.00,-0.58,-124.47,30.91,-6.59,10.37,Plastic products
+64.,Axel Polymers,66.85,36.50,56.93,0.00,-0.07,-117.07,37.28,37.16,12.93,Plastic products
+65.,Tijaria Polypipe,17.80,,50.94,0.00,-0.71,74.64,0.11,-97.14,-5.88,Plastic products
+66.,Vinyoflex,94.60,11.08,40.85,0.00,0.99,-29.29,11.72,-17.17,16.26,Plastic products
+67.,Polysil Irrigati,34.55,18.94,39.18,0.00,0.87,,34.08,,16.02,Plastic products
+68.,Technopack Poly.,67.99,32.48,36.71,0.00,0.13,,5.57,,10.67,Plastic products
+69.,Guj. Petrosynth.,58.49,21.03,34.91,0.00,0.14,-56.25,3.19,-30.95,2.73,Plastic products
+70.,Ashish Polyplast,78.27,31.68,26.61,0.00,0.07,600.00,3.98,4.74,15.95,Plastic products
+71.,Roni Households,44.50,44.09,25.57,0.00,0.58,,4.72,,6.97,Plastic products
+72.,Command Polymers,27.10,,25.41,0.00,-2.51,,4.31,,-5.99,Plastic products
+73.,MPL Plastics,16.55,2.36,20.70,0.00,9.26,317.12,0.00,-100.00,,Plastic products
+74.,Kunststoff Inds.,29.40,18.59,20.27,0.00,0.23,-46.51,3.33,-18.38,17.43,Plastic products
+75.,Apt Packaging,37.83,,19.91,0.00,0.17,-41.38,3.15,-29.84,-10.51,Plastic products
+,Median: 89 Co.,87.84,36.5,161.21,0.0,1.14,12.87,39.53,4.95,11.55,Plastic products
+76.,Polymac Thermof.,41.61,64.16,19.89,0.00,0.27,,6.18,,3.39,Plastic products
+77.,Kkalpana Plastic,32.00,,17.70,0.00,-0.06,-20.00,0.00,,-0.64,Plastic products
+78.,Bisil Plast,3.02,81.60,16.32,0.00,0.04,500.00,1.40,268.42,21.39,Plastic products
+79.,Yuvraaj Hygiene,1.78,,16.14,0.00,-0.39,,4.78,8.39,3.27,Plastic products
+80.,Padmanabh Alloys,26.85,30.26,14.53,0.00,-0.15,61.54,9.56,-1.14,8.60,Plastic products
+81.,SMVD Poly Pack,12.70,,12.74,0.00,1.55,,1.56,,-7.64,Plastic products
+82.,Sanco Industries,9.35,,12.23,0.00,-0.11,99.44,0.00,-100.00,-1.09,Plastic products
+83.,Polycon Intl.,24.65,200.86,12.05,0.00,0.56,2900.00,5.57,6.10,6.14,Plastic products
+84.,Ahimsa Industrie,19.80,,10.84,0.00,-0.65,,8.06,,-4.17,Plastic products
+85.,Union Qual. Pla.,12.46,,8.63,0.00,-0.08,86.21,0.00,,-111.76,Plastic products
+86.,Narmada Macplast,19.95,,7.22,0.00,-0.03,-133.33,0.34,61.90,1.40,Plastic products
+87.,Aadi Industries,6.47,,6.47,0.00,0.08,500.00,0.00,,-40.82,Plastic products
+88.,Innocorp,5.30,,4.20,0.00,-0.04,98.09,0.00,-100.00,-9.57,Plastic products
+89.,Jauss Polymers,7.93,,3.68,0.00,-0.19,-171.43,0.00,,-6.46,Plastic products
+,Median: 89 Co.,87.84,36.5,161.21,0.0,1.14,12.87,39.53,4.95,11.55,Plastic products

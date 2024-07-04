@@ -1,0 +1,68 @@
+S.No.,Name,CMP(Rs),P/E,Mar Cap(Rs.Cr),Div Yld(%),NP Qtr(Rs.Cr),Qtr Profit Var(%),Sales Qtr(Rs.Cr.),Qtr Sales Var(%),ROCE(%),Company Name
+1.,Indian Hotels Co,611.80,70.03,87085.54,0.29,438.33,27.26,1905.34,17.22,15.11,Hotels & Restaurants
+2.,EIH,427.15,41.47,26712.42,0.25,247.59,85.73,741.34,16.37,23.61,Hotels & Restaurants
+3.,Chalet Hotels,849.10,66.57,18518.88,0.00,82.44,78.95,418.26,23.79,9.88,Hotels & Restaurants
+4.,Lemon Tree Hotel,146.50,78.15,11606.44,0.00,84.00,52.33,327.31,29.53,11.17,Hotels & Restaurants
+5.,Juniper Hotels,434.05,405.77,9657.72,0.00,46.75,216.09,245.28,26.45,6.81,Hotels & Restaurants
+6.,Mahindra Holiday,456.40,83.91,9217.10,0.00,83.21,46.26,800.19,12.45,9.24,Hotels & Restaurants
+7.,I T D C,864.05,103.97,7410.91,0.25,15.71,63.61,147.88,-3.82,31.27,Hotels & Restaurants
+8.,Samhi Hotels,188.25,,4142.50,0.00,11.29,109.47,279.16,36.32,6.83,Hotels & Restaurants
+9.,Apeejay Surrend.,184.75,57.29,3942.09,0.00,18.43,73.87,155.68,8.05,12.52,Hotels & Restaurants
+10.,EIH Assoc.Hotels,955.90,35.96,2912.64,0.62,36.81,40.66,132.50,22.88,25.23,Hotels & Restaurants
+11.,Oriental Hotels,137.85,50.08,2462.01,0.37,19.33,-6.80,107.48,-3.52,10.69,Hotels & Restaurants
+12.,TajGVK Hotels,333.85,28.11,2093.29,0.45,25.85,79.02,115.84,11.79,18.65,Hotels & Restaurants
+13.,Praveg,838.10,159.51,2056.05,0.54,1.54,-70.21,32.52,73.72,9.37,Hotels & Restaurants
+14.,HLV,25.14,69.61,1657.39,0.00,10.35,40.05,59.74,14.82,5.65,Hotels & Restaurants
+15.,Benares Hotels,8894.50,31.92,1156.30,0.23,11.59,52.70,35.58,29.38,40.56,Hotels & Restaurants
+16.,Royal Orch.Hotel,364.20,20.61,998.83,0.54,16.70,31.15,76.20,5.03,19.75,Hotels & Restaurants
+17.,U P Hotels,1624.60,27.57,877.28,0.00,13.20,50.68,48.10,14.85,31.09,Hotels & Restaurants
+18.,Speciality Rest.,178.30,29.21,857.58,1.40,3.38,-94.40,96.19,9.92,11.44,Hotels & Restaurants
+19.,Viceroy Hotels,114.97,130.36,726.13,0.00,2.42,,41.19,28.04,2.48,Hotels & Restaurants
+20.,Sayaji Hotels,380.00,46.46,665.70,0.00,8.01,42.78,33.76,-21.18,9.81,Hotels & Restaurants
+21.,Advani Hotels.,70.49,26.15,651.61,3.41,10.59,-3.11,32.57,7.00,48.61,Hotels & Restaurants
+22.,Gourmet Gateway,47.00,131.74,631.03,0.00,1.22,-60.77,37.22,2.08,11.66,Hotels & Restaurants
+23.,Sinclairs Hotels,116.50,31.60,597.16,0.86,5.32,30.39,14.82,10.51,19.18,Hotels & Restaurants
+24.,Kamat Hotels,227.00,28.95,588.06,0.00,2.13,-95.08,84.51,4.98,17.71,Hotels & Restaurants
+25.,Country Club Hos,27.29,,446.18,0.00,6.15,-77.79,12.46,-9.58,-0.01,Hotels & Restaurants
+,Median: 64 Co.,116.67,39.19,259.69,0.0,2.19,40.35,21.21,12.45,9.88,Hotels & Restaurants
+26.,Sayaji (Indore),1300.00,55.24,396.07,0.00,4.85,24.04,27.27,-6.35,15.86,Hotels & Restaurants
+27.,Apollo Sindoori,1508.75,35.44,392.33,0.10,1.72,-15.69,135.30,0.64,11.46,Hotels & Restaurants
+28.,The Byke Hospi.,82.15,68.17,385.29,0.00,2.25,6.13,22.97,-14.29,4.50,Hotels & Restaurants
+29.,Robust Hotels,191.00,69.67,330.27,0.00,2.06,113.92,37.85,25.71,2.63,Hotels & Restaurants
+30.,Asian Hotels (N),164.45,,319.86,0.00,-15.21,-232.82,83.59,14.26,4.43,Hotels & Restaurants
+31.,Graviss Hospital,41.10,96.29,289.85,0.00,1.01,-69.85,16.82,-7.58,2.11,Hotels & Restaurants
+32.,Indrayani Biotec,58.08,41.58,264.47,0.00,4.73,258.33,44.38,-9.89,13.24,Hotels & Restaurants
+33.,Eco Hotels,49.49,,254.90,0.00,-1.46,,0.03,,,Hotels & Restaurants
+34.,Sayaji Hot. Pune,836.55,15.39,254.87,0.00,4.57,48.86,19.45,23.26,35.53,Hotels & Restaurants
+35.,Asian Hotels (E),143.30,9.67,247.79,1.74,19.28,237.06,33.61,19.57,14.31,Hotels & Restaurants
+36.,Phoenix Township,136.75,78.05,191.23,0.00,195.92,,9.49,,,Hotels & Restaurants
+37.,CHL,32.86,18.91,180.14,0.00,16.10,397.05,31.96,9.38,23.15,Hotels & Restaurants
+38.,Savera Industrie,122.00,14.11,145.55,2.47,1.90,-29.37,18.99,16.86,17.47,Hotels & Restaurants
+39.,HB Estate Devel.,73.75,36.90,143.53,0.00,4.52,139.58,31.36,12.81,6.43,Hotels & Restaurants
+40.,Espire Hospi,91.32,48.16,123.29,0.00,0.77,552.94,9.89,22.40,11.78,Hotels & Restaurants
+41.,Emerald Leisures,227.70,,113.99,0.00,-2.62,47.18,4.18,-3.69,6.24,Hotels & Restaurants
+42.,Royale Manor,42.40,19.93,84.09,0.00,1.54,26.23,6.98,13.31,10.02,Hotels & Restaurants
+43.,Jindal Hotels,116.85,34.08,81.80,0.00,2.38,235.21,12.78,17.03,9.12,Hotels & Restaurants
+44.,Gujarat Hotels,209.65,16.82,79.45,0.95,1.34,8.06,1.08,-0.92,13.88,Hotels & Restaurants
+45.,Vidli Restaurant,66.61,50.61,78.96,0.75,0.07,-89.13,8.55,26.29,9.81,Hotels & Restaurants
+46.,Sri Havisha,2.55,,77.37,0.00,-2.39,-1227.78,3.35,-5.37,2.35,Hotels & Restaurants
+47.,TGB Banquets,16.74,,49.03,0.00,-4.57,-996.08,8.88,-3.06,-2.35,Hotels & Restaurants
+48.,Aruna Hotels,10.95,,37.11,0.00,-0.51,82.94,6.21,293.04,7.08,Hotels & Restaurants
+49.,Best Eastern Hot,18.28,219.98,30.80,0.00,-0.22,-191.67,1.43,22.22,8.55,Hotels & Restaurants
+50.,Kaushalya Infra.,870.00,1.98,30.13,0.00,13.88,-8.32,0.05,66.67,23.36,Hotels & Restaurants
+,Median: 64 Co.,116.67,39.19,259.69,0.0,2.19,40.35,21.21,12.45,9.88,Hotels & Restaurants
+51.,Pecos Hotels,213.00,24.05,27.90,1.41,0.47,,4.98,,33.26,Hotels & Restaurants
+52.,H. S. India,16.87,20.44,27.40,0.00,0.39,33.33,6.70,9.30,6.90,Hotels & Restaurants
+53.,Reliable Ventur.,21.30,,23.43,0.00,-0.17,58.54,1.06,16.48,-5.58,Hotels & Restaurants
+54.,Velan Hotels,6.85,,21.89,0.00,-0.37,66.96,0.00,,-1.93,Hotels & Restaurants
+55.,Howard Hotels,24.00,23.01,21.86,0.00,0.02,-95.92,4.63,37.80,10.27,Hotels & Restaurants
+56.,Polo Hotels,8.45,,18.91,0.00,-0.22,50.00,0.00,-100.00,-0.60,Hotels & Restaurants
+57.,Cindrella Hotels,51.39,28.02,18.50,1.95,-0.06,85.71,2.13,-3.62,2.76,Hotels & Restaurants
+58.,Ras Resorts,39.60,87.35,15.72,0.00,0.51,54.55,3.91,5.39,3.40,Hotels & Restaurants
+59.,Sterling Green,32.00,,13.57,0.00,-0.35,-174.47,0.16,-88.65,-5.64,Hotels & Restaurants
+60.,Lords Ishwar,18.15,27.68,13.56,0.00,0.25,377.78,2.31,14.93,5.56,Hotels & Restaurants
+61.,Blu.Coast Hotel.,9.70,,12.37,0.00,-3.53,-26.07,0.00,,,Hotels & Restaurants
+62.,Mac Hotels,38.50,36.09,11.55,0.00,1.25,,3.42,,20.41,Hotels & Restaurants
+63.,Univa Foods,7.61,,10.90,0.00,-0.01,-133.33,0.00,-100.00,-355.00,Hotels & Restaurants
+64.,Silver Pearl,9.50,74.60,7.46,0.00,0.20,,0.78,,0.82,Hotels & Restaurants
+,Median: 64 Co.,116.67,39.19,259.69,0.0,2.19,40.35,21.21,12.45,9.88,Hotels & Restaurants

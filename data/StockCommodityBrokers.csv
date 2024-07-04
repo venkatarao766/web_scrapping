@@ -1,0 +1,56 @@
+S.No.,Name,CMP(Rs),P/E,Mar Cap(Rs.Cr),Div Yld(%),NP Qtr(Rs.Cr),Qtr Profit Var(%),Sales Qtr(Rs.Cr.),Qtr Sales Var(%),ROCE(%),Company Name
+1.,Motil.Oswal.Fin.,563.10,13.82,33619.51,0.62,724.60,338.96,2141.29,108.42,20.69,Stock/ Commodity Brokers
+2.,ICICI Securities,773.90,14.76,25055.22,3.74,536.53,104.25,1543.17,74.41,19.74,Stock/ Commodity Brokers
+3.,Angel One,2349.55,18.81,21166.64,1.68,339.94,27.34,1357.28,64.37,38.69,Stock/ Commodity Brokers
+4.,Nuvama Wealth,4912.00,27.86,17386.17,0.00,180.74,111.64,927.38,51.34,16.54,Stock/ Commodity Brokers
+5.,Prudent Corp.,1944.30,58.02,8050.72,0.08,44.57,8.10,239.70,35.45,43.27,Stock/ Commodity Brokers
+6.,IIFL Securities,208.00,12.53,6409.08,1.46,180.56,108.33,686.43,70.80,34.77,Stock/ Commodity Brokers
+7.,Share India Sec.,304.65,14.08,6013.95,0.55,115.75,8.76,465.37,36.58,38.34,Stock/ Commodity Brokers
+8.,Geojit Fin. Ser.,98.40,16.26,2353.22,1.56,51.91,77.29,208.13,87.81,18.79,Stock/ Commodity Brokers
+9.,Monarch Networth,516.85,14.22,1750.57,0.19,30.54,580.18,68.21,72.12,51.53,Stock/ Commodity Brokers
+10.,SMC Global Sec.,156.35,8.73,1636.99,1.53,66.24,204.90,509.68,67.82,17.99,Stock/ Commodity Brokers
+11.,5Paisa Capital,503.15,28.82,1570.30,0.00,5.78,-59.89,112.86,24.58,13.35,Stock/ Commodity Brokers
+12.,Adit.Birla Money,171.95,18.36,971.66,0.00,16.46,123.34,114.06,73.05,12.54,Stock/ Commodity Brokers
+13.,Wealth First Por,790.00,19.86,841.74,0.38,13.59,1170.09,14.16,190.16,56.84,Stock/ Commodity Brokers
+14.,Arihant Capital,72.30,10.64,752.72,0.55,24.66,1164.62,63.73,117.51,28.52,Stock/ Commodity Brokers
+15.,Meghna Infracon,460.00,157.62,499.65,0.00,0.55,123.40,9.49,267.83,21.04,Stock/ Commodity Brokers
+16.,Emk.Global Fin.,169.40,13.55,418.63,0.60,10.56,298.12,90.17,113.93,17.65,Stock/ Commodity Brokers
+17.,Almondz Global,132.85,19.19,367.79,0.00,6.00,48.88,45.41,70.52,9.85,Stock/ Commodity Brokers
+18.,Indo Thai Sec.,273.00,17.85,273.00,0.37,2.46,132.16,6.59,203.69,28.12,Stock/ Commodity Brokers
+19.,Pune e,162.60,20.46,254.48,0.00,6.55,,39.76,,18.51,Stock/ Commodity Brokers
+20.,Inventure Grow.,2.86,16.75,240.24,0.00,7.00,91.43,21.81,80.70,9.76,Stock/ Commodity Brokers
+21.,Swastika Investm,764.00,18.40,226.15,0.25,4.25,333.67,36.54,62.91,28.53,Stock/ Commodity Brokers
+22.,Indbank Merchant,50.45,27.84,223.89,0.00,2.50,185.19,6.86,62.56,14.59,Stock/ Commodity Brokers
+23.,LKP Securities,21.83,17.90,172.86,0.67,5.67,1360.00,32.43,91.78,20.12,Stock/ Commodity Brokers
+24.,DB Intl.Stock,48.48,19.61,169.70,0.00,1.86,138.46,14.41,191.70,22.24,Stock/ Commodity Brokers
+25.,B N Rathi Sec.,140.40,13.65,143.89,1.06,2.30,29.94,13.55,32.97,28.54,Stock/ Commodity Brokers
+,Median: 52 Co.,82.34,18.36,134.92,0.0,2.11,111.64,11.45,72.12,14.75,Stock/ Commodity Brokers
+26.,Steel City Sec.,90.69,11.55,137.02,3.31,4.40,121.11,17.34,25.11,13.67,Stock/ Commodity Brokers
+27.,Tilak Ventures,5.96,24.41,132.82,0.00,2.35,115.60,2.61,57.23,9.45,Stock/ Commodity Brokers
+28.,Wallfort Fin.,118.50,3.88,114.83,0.00,-3.76,26.56,3.55,305.20,27.03,Stock/ Commodity Brokers
+29.,BLB,18.67,37.82,98.68,0.00,-2.36,-243.90,205.35,166.27,4.88,Stock/ Commodity Brokers
+30.,SKP Securities,141.00,11.10,96.00,0.70,2.85,630.77,9.07,65.81,30.32,Stock/ Commodity Brokers
+31.,KBS India,8.80,1360.36,95.24,0.00,0.77,670.00,0.60,93.55,0.51,Stock/ Commodity Brokers
+32.,Munoth Capital,96.04,,88.03,0.00,-0.09,57.14,0.05,150.00,-4.15,Stock/ Commodity Brokers
+33.,Joindre Capital,50.88,46.33,70.41,2.46,-4.09,218.64,13.41,99.26,12.92,Stock/ Commodity Brokers
+34.,Nam Securities,113.75,185.86,61.33,0.00,-0.26,48.00,30.48,61.96,4.16,Stock/ Commodity Brokers
+35.,Gogia Capital,74.00,,46.78,0.00,1.93,-43.24,1.77,-11.06,-47.94,Stock/ Commodity Brokers
+36.,Utique Enterp.,8.27,158.78,46.03,0.00,0.00,-100.00,0.03,-99.86,1.73,Stock/ Commodity Brokers
+37.,Khandwala Sec.,28.95,259.79,44.17,0.00,-0.34,80.23,2.83,108.09,1.36,Stock/ Commodity Brokers
+38.,Vertex Secur.,5.79,91.17,42.85,0.00,0.69,216.95,2.87,111.03,5.76,Stock/ Commodity Brokers
+39.,Munoth Fin.Serv.,66.99,181.21,34.43,0.00,-0.25,-38.89,0.13,30.00,1.71,Stock/ Commodity Brokers
+40.,Cil Securities,51.25,8.91,25.63,0.00,0.95,55.74,2.97,48.50,14.92,Stock/ Commodity Brokers
+41.,NDA Securities,40.92,38.62,24.33,0.00,0.20,-68.25,2.00,72.41,11.61,Stock/ Commodity Brokers
+42.,Daulat Securitie,46.51,6.65,23.26,0.00,0.12,106.28,1.92,242.22,25.21,Stock/ Commodity Brokers
+43.,Ajcon Global,34.51,16.89,21.12,0.00,0.10,141.67,3.67,57.51,7.06,Stock/ Commodity Brokers
+44.,Sugal & Damani,28.95,7.83,18.09,0.00,0.52,372.73,1.75,503.45,15.78,Stock/ Commodity Brokers
+45.,First Custodian,120.20,11.00,18.03,0.84,0.75,1350.00,0.98,512.50,16.25,Stock/ Commodity Brokers
+46.,Modern Shares,60.37,44.25,17.72,0.00,0.09,1000.00,0.95,55.74,4.33,Stock/ Commodity Brokers
+47.,Inani Securities,32.50,11.66,14.81,0.00,1.26,1030.77,0.50,138.10,10.55,Stock/ Commodity Brokers
+48.,Market Creators,10.43,,10.95,0.00,-0.18,-333.33,2.04,7.37,5.66,Stock/ Commodity Brokers
+49.,Sanchay Finvest,27.75,,8.74,0.00,-0.05,-112.82,0.07,-84.09,6.74,Stock/ Commodity Brokers
+50.,Aryan Share,20.00,11.78,6.00,0.00,0.01,103.23,0.29,211.54,3.54,Stock/ Commodity Brokers
+,Median: 52 Co.,82.34,18.36,134.92,0.0,2.11,111.64,11.45,72.12,14.75,Stock/ Commodity Brokers
+51.,Relic Tech.,15.00,,5.40,0.00,-0.67,-458.33,0.38,58.33,-15.26,Stock/ Commodity Brokers
+52.,Sarthak Global,15.08,226.00,4.52,0.00,0.06,400.00,3.98,65.83,4.94,Stock/ Commodity Brokers
+,Median: 52 Co.,82.34,18.36,134.92,0.0,2.11,111.64,11.45,72.12,14.75,Stock/ Commodity Brokers

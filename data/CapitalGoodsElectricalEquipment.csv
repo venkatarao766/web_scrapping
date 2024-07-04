@@ -1,0 +1,91 @@
+S.No.,Name,CMP(Rs),P/E,Mar Cap(Rs.Cr),Div Yld(%),NP Qtr(Rs.Cr),Qtr Profit Var(%),Sales Qtr(Rs.Cr.),Qtr Sales Var(%),ROCE(%),Company Name
+1.,Siemens,7832.40,120.38,278927.63,0.13,896.40,73.72,5313.80,19.00,20.66,Capital Goods - Electrical Equipment
+2.,A B B,8627.95,124.96,182833.50,0.28,459.29,87.46,3080.36,27.75,30.69,Capital Goods - Electrical Equipment
+3.,CG Power & Ind,729.60,80.30,111473.51,0.21,233.81,-1.79,2191.72,15.18,46.63,Capital Goods - Electrical Equipment
+4.,B H E L,313.80,387.25,109267.17,0.13,489.62,-25.59,8260.25,0.40,2.97,Capital Goods - Electrical Equipment
+5.,Suzlon Energy,54.87,103.90,74155.04,0.00,254.12,352.16,2196.21,29.64,24.70,Capital Goods - Electrical Equipment
+6.,Hitachi Energy,13883.05,359.24,58838.64,0.03,113.66,123.70,1695.28,27.08,17.18,Capital Goods - Electrical Equipment
+7.,GE T&D India,1689.20,238.96,43251.99,0.00,66.29,353.79,913.60,29.95,22.15,Capital Goods - Electrical Equipment
+8.,Apar Inds.,8686.30,42.25,34891.37,0.46,236.22,-2.68,4455.11,9.08,42.86,Capital Goods - Electrical Equipment
+9.,K E C Intl.,928.50,68.84,23870.69,0.33,151.75,110.27,6164.83,11.58,14.20,Capital Goods - Electrical Equipment
+10.,Schneider Elect.,923.70,126.14,22085.62,0.00,3.28,-92.96,471.75,14.92,33.07,Capital Goods - Electrical Equipment
+11.,Inox Wind,159.20,,20756.45,0.00,36.72,145.06,527.73,176.66,4.25,Capital Goods - Electrical Equipment
+12.,Triveni Turbine,641.80,75.75,20401.33,0.20,76.20,36.86,458.05,23.88,41.68,Capital Goods - Electrical Equipment
+13.,V-Guard Industri,466.60,87.83,20289.15,0.30,79.17,70.88,1261.63,16.76,16.07,Capital Goods - Electrical Equipment
+14.,Kalpataru Proj.,1225.20,38.98,19902.92,0.64,169.00,79.13,5971.00,22.31,15.99,Capital Goods - Electrical Equipment
+15.,Volt.Transform.,12879.95,42.45,13030.82,0.68,93.53,22.15,504.16,14.62,32.46,Capital Goods - Electrical Equipment
+16.,T R I L,797.70,270.60,11972.15,0.03,41.62,342.68,512.70,16.96,14.81,Capital Goods - Electrical Equipment
+17.,Insolation Ener,3043.30,114.28,6339.79,0.00,40.44,,458.77,,63.82,Capital Goods - Electrical Equipment
+18.,TD Power Systems,387.50,51.19,6052.14,0.13,29.03,-15.44,263.89,5.62,24.82,Capital Goods - Electrical Equipment
+19.,Exicom Tele-Sys.,495.00,90.03,5980.87,0.00,30.99,56.28,297.54,60.42,24.69,Capital Goods - Electrical Equipment
+20.,Bharat Bijlee,5101.25,43.87,5766.04,0.39,48.53,80.68,587.47,36.69,10.56,Capital Goods - Electrical Equipment
+21.,Shilchar Tech.,6400.00,53.13,4881.16,0.08,25.02,53.69,105.43,10.99,74.63,Capital Goods - Electrical Equipment
+22.,Honda India,4090.00,46.49,4147.30,0.41,15.80,-22.73,231.16,-26.22,15.51,Capital Goods - Electrical Equipment
+23.,Spectrum Electr.,2304.00,182.34,3595.76,0.04,12.61,,197.72,,18.94,Capital Goods - Electrical Equipment
+24.,HPL Electric,451.00,66.61,2899.93,0.21,13.72,21.87,424.09,16.91,10.99,Capital Goods - Electrical Equipment
+25.,Ujaas Energy,261.93,71.47,2758.16,0.00,-4.14,503.10,6.84,-20.74,14.05,Capital Goods - Electrical Equipment
+,Median: 86 Co.,382.7,67.72,905.8,0.0,5.14,29.22,75.52,16.53,17.06,Capital Goods - Electrical Equipment
+26.,Alpex Solar,1070.00,115.62,2618.64,0.00,18.94,,199.84,,39.33,Capital Goods - Electrical Equipment
+27.,Websol Energy,582.90,,2460.22,0.00,-58.57,-976.47,24.87,22509.09,-16.70,Capital Goods - Electrical Equipment
+28.,Marine Electric.,176.98,91.15,2347.90,0.00,12.18,208.35,237.08,65.65,15.39,Capital Goods - Electrical Equipment
+29.,IKIO Lighting,302.55,38.53,2338.05,0.32,9.52,-31.36,94.79,-17.50,21.64,Capital Goods - Electrical Equipment
+30.,Jyoti Structures,26.88,78.92,2277.63,0.00,14.12,154.41,128.96,-17.24,1.10,Capital Goods - Electrical Equipment
+31.,Swelect Energy,1316.50,82.36,1995.62,0.22,36.02,-23.64,75.52,22.34,5.66,Capital Goods - Electrical Equipment
+32.,Servotech Power,88.50,174.14,1972.70,0.04,3.20,-44.92,120.79,25.61,11.30,Capital Goods - Electrical Equipment
+33.,Indo Tech.Trans.,1780.00,40.33,1890.35,0.00,25.57,32.49,175.11,21.04,30.16,Capital Goods - Electrical Equipment
+34.,Rishabh Instrum.,446.95,43.09,1708.18,0.00,2.32,-84.42,177.91,1.96,9.71,Capital Goods - Electrical Equipment
+35.,Salzer Electron.,949.00,38.19,1649.65,0.26,12.08,34.82,317.57,7.61,12.91,Capital Goods - Electrical Equipment
+36.,Igarashi Motors,497.40,163.60,1565.57,0.20,5.14,-32.63,204.60,18.31,4.65,Capital Goods - Electrical Equipment
+37.,ICE Make Refrig.,875.50,52.87,1381.53,0.21,14.26,65.24,139.92,23.21,34.34,Capital Goods - Electrical Equipment
+38.,Kirl. Electric,204.75,96.55,1359.81,0.00,5.42,-50.23,168.53,16.19,18.30,Capital Goods - Electrical Equipment
+39.,Australian Prem,647.25,207.77,1277.66,0.00,3.55,,68.52,,50.96,Capital Goods - Electrical Equipment
+40.,Solex Energy,1460.00,133.81,1168.00,0.01,8.01,,272.89,,21.28,Capital Goods - Electrical Equipment
+41.,Supreme Power,394.00,70.35,984.66,0.00,7.54,,58.87,,75.41,Capital Goods - Electrical Equipment
+42.,Focus Lighting,148.38,25.37,983.44,0.20,10.41,101.74,59.62,45.81,39.17,Capital Goods - Electrical Equipment
+43.,Shivalic,377.90,127.11,911.34,0.00,,,,,26.00,Capital Goods - Electrical Equipment
+44.,Marsons,52.31,1428.98,900.25,0.00,0.45,-86.99,3.77,46.69,3.09,Capital Goods - Electrical Equipment
+45.,Artemis Electri.,31.21,62.63,783.49,0.00,1.37,-43.62,13.97,-32.67,9.26,Capital Goods - Electrical Equipment
+46.,Modern Insulator,162.25,20.95,764.91,0.00,16.23,29.22,140.21,14.21,9.12,Capital Goods - Electrical Equipment
+47.,Concord Control,1249.80,57.33,747.63,0.00,6.98,,35.07,,74.16,Capital Goods - Electrical Equipment
+48.,High Energy Bat.,828.00,41.45,742.20,0.36,4.70,-32.57,19.87,-35.67,27.93,Capital Goods - Electrical Equipment
+49.,RMC Switchgears,662.70,41.86,683.13,0.03,6.83,,85.21,,34.83,Capital Goods - Electrical Equipment
+50.,Viviana Power,1034.95,95.21,617.86,0.00,3.98,,42.31,,41.47,Capital Goods - Electrical Equipment
+,Median: 86 Co.,382.7,67.72,905.8,0.0,5.14,29.22,75.52,16.53,17.06,Capital Goods - Electrical Equipment
+51.,Saakshi Medtech,340.00,53.08,600.31,0.00,5.77,,60.57,,26.59,Capital Goods - Electrical Equipment
+52.,Taylormade Renew,518.85,54.24,575.55,0.00,2.56,,20.79,,67.14,Capital Goods - Electrical Equipment
+53.,GP Eco,394.65,124.93,462.18,0.00,,,,,41.62,Capital Goods - Electrical Equipment
+54.,Kaycee Inds.,66900.00,93.87,421.47,0.09,1.57,76.40,13.47,19.73,24.31,Capital Goods - Electrical Equipment
+55.,Modison,129.35,24.34,419.75,0.77,6.15,-23.02,113.58,29.91,12.34,Capital Goods - Electrical Equipment
+56.,Lak. Electrical,1525.00,26.68,375.16,0.98,2.08,-48.64,61.95,-35.32,7.42,Capital Goods - Electrical Equipment
+57.,Akanksha Power,175.00,121.38,324.07,0.00,,,,,,Capital Goods - Electrical Equipment
+58.,Amba Enterprises,237.40,48.74,300.58,0.13,1.70,-0.58,77.55,16.30,21.65,Capital Goods - Electrical Equipment
+59.,JSL Industries,2370.15,45.16,278.22,0.00,1.65,1550.00,12.65,-6.92,21.28,Capital Goods - Electrical Equipment
+60.,Veto Switchgears,142.40,15.21,272.25,0.71,2.23,6.00,79.44,-5.59,12.03,Capital Goods - Electrical Equipment
+61.,Star Delta Trans,892.95,24.09,267.90,0.00,2.12,-39.43,38.28,-4.66,23.24,Capital Goods - Electrical Equipment
+62.,Jyoti,95.07,27.65,219.54,0.00,6.07,-27.23,62.40,18.52,4.11,Capital Goods - Electrical Equipment
+63.,Aartech Solonics,193.35,157.51,204.76,0.26,-0.38,-22.58,9.98,252.65,9.37,Capital Goods - Electrical Equipment
+64.,Surana Solar,39.90,129.15,196.34,0.00,-0.15,-160.00,3.93,-49.62,2.59,Capital Goods - Electrical Equipment
+65.,RTS Power Corpn.,211.00,46.85,193.48,0.00,0.09,-89.02,48.15,6.06,5.54,Capital Goods - Electrical Equipment
+66.,Electro Force,77.90,31.69,182.29,0.00,-1.36,,13.33,,43.11,Capital Goods - Electrical Equipment
+67.,S & S Power Swit,271.50,58.25,168.33,0.00,0.98,-24.60,43.10,-7.07,19.53,Capital Goods - Electrical Equipment
+68.,Rexnord Electr.,148.60,22.07,165.84,0.00,1.80,69.81,25.32,9.37,14.98,Capital Goods - Electrical Equipment
+69.,Kundan Edifice,148.00,50.67,152.03,0.00,-0.31,,42.83,,29.41,Capital Goods - Electrical Equipment
+70.,Agni Green,58.45,300.48,114.18,0.00,0.27,,21.01,,5.48,Capital Goods - Electrical Equipment
+71.,Power & Instrum.,74.50,15.98,94.12,0.26,2.67,117.07,36.92,-16.83,17.06,Capital Goods - Electrical Equipment
+72.,Sungarner Energ.,399.00,88.96,92.52,0.00,0.80,,10.47,,25.91,Capital Goods - Electrical Equipment
+73.,Dhanashree Elect,64.50,23.41,91.52,0.00,1.80,97.80,29.73,146.93,12.51,Capital Goods - Electrical Equipment
+74.,Alfa Transformer,91.46,10.96,83.69,0.00,0.12,-40.00,11.35,56.77,11.50,Capital Goods - Electrical Equipment
+75.,Advance Meter.,42.13,,67.66,0.00,-2.87,16.57,2.79,-40.89,-0.96,Capital Goods - Electrical Equipment
+,Median: 86 Co.,382.7,67.72,905.8,0.0,5.14,29.22,75.52,16.53,17.06,Capital Goods - Electrical Equipment
+76.,Cospower Engine.,345.80,471.53,51.88,0.00,1.31,,15.24,,8.39,Capital Goods - Electrical Equipment
+77.,Integra Switch,158.85,,50.63,0.00,0.00,100.00,0.00,,-7.30,Capital Goods - Electrical Equipment
+78.,Maks Energy,63.15,69.52,43.79,0.00,0.08,,35.38,,9.63,Capital Goods - Electrical Equipment
+79.,Quest Softech,40.95,,40.95,0.00,-0.18,35.71,0.87,2800.00,-13.34,Capital Goods - Electrical Equipment
+80.,Tarapur Trans,13.35,,26.03,0.00,-0.37,98.37,0.00,-100.00,-32.60,Capital Goods - Electrical Equipment
+81.,Switching Tech.,85.90,,21.04,0.00,4.01,19.90,1.95,-33.45,,Capital Goods - Electrical Equipment
+82.,Bright Solar,8.35,,20.87,0.00,-2.90,,9.02,,-10.47,Capital Goods - Electrical Equipment
+83.,Sterling Powerg.,35.35,6.35,18.03,0.00,1.26,1150.00,6.41,7022.22,31.56,Capital Goods - Electrical Equipment
+84.,Neueon Towers,3.09,,17.47,0.00,-23.33,0.17,0.05,66.67,,Capital Goods - Electrical Equipment
+85.,Epic Energy,16.70,33.45,12.04,0.00,0.25,175.76,1.52,424.14,5.03,Capital Goods - Electrical Equipment
+86.,Cont. Controls,12.52,,7.70,0.00,-0.02,94.44,0.00,-100.00,-8.94,Capital Goods - Electrical Equipment
+,Median: 86 Co.,382.7,67.72,905.8,0.0,5.14,29.22,75.52,16.53,17.06,Capital Goods - Electrical Equipment

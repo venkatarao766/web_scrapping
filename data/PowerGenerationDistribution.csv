@@ -1,0 +1,35 @@
+S.No.,Name,CMP(Rs),P/E,Mar Cap(Rs.Cr),Div Yld(%),NP Qtr(Rs.Cr),Qtr Profit Var(%),Sales Qtr(Rs.Cr.),Qtr Sales Var(%),ROCE(%),Company Name
+1.,NTPC,374.80,17.45,363431.05,1.92,6490.05,26.91,47622.06,7.61,10.37,Power Generation & Distribution
+2.,Power Grid Corpn,336.15,20.03,312639.76,3.26,4166.33,-3.62,11978.11,-2.33,12.98,Power Generation & Distribution
+3.,Adani Green,1769.80,221.93,280342.07,0.00,310.00,-70.67,2527.00,-2.73,9.81,Power Generation & Distribution
+4.,Adani Power,713.50,13.19,275192.61,0.00,2737.24,-47.79,13363.69,30.48,32.25,Power Generation & Distribution
+5.,Tata Power Co.,438.00,40.61,139955.85,0.46,1045.58,12.21,15846.58,27.24,11.13,Power Generation & Distribution
+6.,JSW Energy,730.05,76.96,127595.79,0.27,345.27,26.91,2755.87,3.22,8.59,Power Generation & Distribution
+7.,Adani Energy Sol,1028.95,109.51,114778.64,0.00,381.29,-7.19,4706.85,40.18,9.00,Power Generation & Distribution
+8.,NHPC Ltd,103.05,28.51,103514.13,1.80,610.93,-16.28,1888.14,-6.93,7.37,Power Generation & Distribution
+9.,Torrent Power,1514.00,39.73,72765.39,1.07,447.04,-4.19,6528.58,8.13,15.25,Power Generation & Distribution
+10.,SJVN,139.65,64.58,54879.58,1.26,61.08,-220.68,482.91,-4.14,4.98,Power Generation & Distribution
+11.,NLC India,263.25,19.74,36503.24,1.34,113.94,-86.36,3540.61,-31.04,9.13,Power Generation & Distribution
+12.,CESC,159.25,15.34,21109.72,2.83,415.00,-7.62,3387.00,9.19,11.18,Power Generation & Distribution
+13.,JP Power Ven.,19.09,9.37,13083.31,0.00,588.79,2226.44,1514.83,9.78,13.96,Power Generation & Distribution
+14.,Reliance Power,28.37,,11396.07,0.00,-397.56,52.08,1996.65,15.42,1.43,Power Generation & Distribution
+15.,RattanIndia Pow.,17.16,,9215.10,0.00,10665.75,106.35,913.96,1.49,8.18,Power Generation & Distribution
+16.,Inox Wind Energy,7562.00,,9110.39,0.00,37.93,137.04,528.49,183.84,4.15,Power Generation & Distribution
+17.,Guj Inds. Power,244.90,18.62,3704.14,1.53,66.18,1.64,372.69,-12.13,7.66,Power Generation & Distribution
+18.,BF Utilities,870.30,324.80,3277.54,0.00,9.38,1019.61,2.38,16.10,8.61,Power Generation & Distribution
+19.,Orient Green,21.28,71.68,2086.98,0.00,-25.25,10.85,36.02,-18.93,6.97,Power Generation & Distribution
+20.,India Power Corp,17.39,98.58,1693.41,0.29,7.56,19.43,162.26,1.36,4.37,Power Generation & Distribution
+21.,Mac Charles(I),455.00,,596.05,0.00,-21.30,-93.11,2.40,20.00,0.40,Power Generation & Distribution
+22.,Surana Telecom,29.59,52.72,401.71,0.00,5.45,193.54,6.59,-10.10,7.19,Power Generation & Distribution
+23.,Indowind Energy,32.60,42.77,349.95,0.00,0.63,101.75,4.44,-1.55,3.73,Power Generation & Distribution
+24.,Waa Solar,181.70,36.36,241.08,0.00,1.59,,3.04,,3.37,Power Generation & Distribution
+25.,Energy Devl.Co.,23.33,,110.83,0.00,-5.14,2.47,3.94,10.99,2.91,Power Generation & Distribution
+,Median: 32 Co.,149.45,40.61,6407.26,0.0,23.66,10.85,427.8,8.13,7.66,Power Generation & Distribution
+26.,Karma Energy Ltd,67.23,648.19,77.78,0.00,-1.74,-213.73,1.03,-10.43,0.21,Power Generation & Distribution
+27.,Gita Renewable,184.00,210.17,75.69,0.00,0.10,190.91,0.28,300.00,2.71,Power Generation & Distribution
+28.,Sri KPR Inds.,34.94,8.97,70.39,0.00,2.50,3471.43,2.27,11.82,8.95,Power Generation & Distribution
+29.,Hind Aluminium,61.50,2.42,38.74,0.00,0.38,110.03,0.33,176.74,22.12,Power Generation & Distribution
+30.,Ushdev Intl.,1.03,,34.86,0.00,-4.81,-228.27,1.48,12.98,,Power Generation & Distribution
+31.,IND Renewable,15.78,439.53,21.99,0.00,-0.26,-966.67,0.00,,0.07,Power Generation & Distribution
+32.,SRM Energy Ltd,16.14,,14.62,0.00,-0.12,85.71,0.00,,-135.09,Power Generation & Distribution
+,Median: 32 Co.,149.45,40.61,6407.26,0.0,23.66,10.85,427.8,8.13,7.66,Power Generation & Distribution

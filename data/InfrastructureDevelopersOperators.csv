@@ -1,0 +1,113 @@
+S.No.,Name,CMP(Rs),P/E,Mar Cap(Rs.Cr),Div Yld(%),NP Qtr(Rs.Cr),Qtr Profit Var(%),Sales Qtr(Rs.Cr.),Qtr Sales Var(%),ROCE(%),Company Name
+1.,Larsen & Toubro,3621.05,38.61,497839.40,0.77,5013.17,8.72,67078.68,14.99,13.44,Infrastructure Developers & Operators
+2.,Rail Vikas,419.25,59.77,87414.38,0.50,433.32,25.50,6700.69,17.12,18.70,Infrastructure Developers & Operators
+3.,GMR Airports Inf,97.34,,58753.85,0.00,-167.58,55.92,2446.78,29.48,6.39,Infrastructure Developers & Operators
+4.,IRB Infra.Devl.,65.48,65.27,39543.32,0.46,188.88,45.12,2061.24,27.24,9.00,Infrastructure Developers & Operators
+5.,NBCC,176.75,59.65,31815.00,0.32,141.49,79.54,4024.50,43.05,32.71,Infrastructure Developers & Operators
+6.,Ircon Intl.,278.45,28.09,26188.67,1.06,246.66,-3.83,3742.71,-1.00,18.54,Infrastructure Developers & Operators
+7.,Waaree Renewab.,1973.90,138.85,20558.00,0.01,54.19,341.65,273.25,344.38,103.31,Infrastructure Developers & Operators
+8.,HFCL,122.90,53.72,17730.46,0.17,109.36,52.27,1326.06,-7.46,13.26,Infrastructure Developers & Operators
+9.,Rites,736.85,38.96,17706.65,2.78,136.67,-4.48,643.25,-6.34,24.76,Infrastructure Developers & Operators
+10.,G R Infraproject,1817.60,16.10,17574.20,0.00,553.09,-20.73,2485.12,0.98,17.00,Infrastructure Developers & Operators
+11.,Techno Elec.Engg,1530.00,60.74,16465.69,0.41,77.54,1414.45,439.62,40.47,16.50,Infrastructure Developers & Operators
+12.,Engineers India,267.55,33.76,15037.47,1.09,115.52,-39.26,805.14,-8.52,22.55,Infrastructure Developers & Operators
+13.,PNC Infratech,485.75,13.71,12461.37,0.10,395.89,171.19,2600.15,12.81,16.06,Infrastructure Developers & Operators
+14.,H.G. Infra Engg.,1768.00,21.90,11522.19,0.09,190.03,11.17,1708.26,11.26,24.08,Infrastructure Developers & Operators
+15.,KNR Construct.,359.60,13.43,10113.19,0.07,340.61,140.32,1414.00,13.54,25.41,Infrastructure Developers & Operators
+16.,ISGEC Heavy,1336.55,40.36,9827.63,0.23,72.06,-17.22,1867.96,-8.56,11.84,Infrastructure Developers & Operators
+17.,ITD Cem,519.90,32.68,8931.25,0.30,89.55,137.68,2257.72,38.39,27.47,Infrastructure Developers & Operators
+18.,Hind.Construct.,48.03,,8067.55,0.00,245.93,-749.91,1773.13,-42.69,21.61,Infrastructure Developers & Operators
+19.,Power Mech Proj.,5024.95,32.00,7943.49,0.04,84.41,13.18,1301.53,10.85,23.88,Infrastructure Developers & Operators
+20.,Dilip Buildcon,538.00,114.50,7866.41,0.02,2.66,130.96,3365.62,18.46,10.66,Infrastructure Developers & Operators
+21.,Reliance Infra.,188.30,,7459.17,0.00,-97.63,-216.37,4685.96,11.94,6.99,Infrastructure Developers & Operators
+22.,J Kumar Infra,903.60,20.85,6837.09,0.39,99.68,34.94,1424.97,25.64,18.44,Infrastructure Developers & Operators
+23.,Welspun Enterp,480.00,20.64,6643.83,0.64,77.67,-27.61,821.11,-2.84,18.45,Infrastructure Developers & Operators
+24.,Ashoka Buildcon,233.30,14.87,6549.27,0.00,254.31,391.98,3051.87,24.65,35.27,Infrastructure Developers & Operators
+25.,Bondada Engineer,2909.45,140.50,6285.02,0.00,31.44,,505.00,,42.32,Infrastructure Developers & Operators
+,Median: 107 Co.,172.55,33.38,534.94,0.0,5.69,43.99,106.63,11.36,14.37,Infrastructure Developers & Operators
+26.,Patel Engineerin,68.96,26.23,5822.82,0.00,140.34,31.30,1343.18,11.46,13.89,Infrastructure Developers & Operators
+27.,GMR Urban,87.82,,5300.74,0.00,170.39,43.82,1634.48,14.83,11.56,Infrastructure Developers & Operators
+28.,Inox Green,176.95,174.40,5195.39,0.00,20.60,2715.09,52.43,-7.69,3.62,Infrastructure Developers & Operators
+29.,WPIL,4725.00,34.39,4614.95,0.42,65.84,19.94,591.41,13.64,20.47,Infrastructure Developers & Operators
+30.,Ramky Infra,623.00,13.98,4311.01,0.00,57.51,239.23,581.19,0.83,21.09,Infrastructure Developers & Operators
+31.,Gensol Engineer.,1018.95,72.10,3859.07,0.00,19.78,171.41,398.82,143.29,14.56,Infrastructure Developers & Operators
+32.,Bajel Projects,300.05,345.06,3460.79,0.00,7.07,1766.67,489.16,147.34,10.28,Infrastructure Developers & Operators
+33.,SEPC,19.58,134.42,3061.61,0.00,6.67,133.10,147.82,3.93,4.25,Infrastructure Developers & Operators
+34.,Vindhya Telelink,2533.30,10.65,3001.92,0.59,108.35,6.95,1289.98,-6.18,10.88,Infrastructure Developers & Operators
+35.,K.P. Energy,448.75,51.39,2992.74,0.03,24.90,60.85,207.26,39.62,40.99,Infrastructure Developers & Operators
+36.,GE Power,440.30,,2960.20,0.00,25.94,120.00,390.76,13.43,-18.42,Infrastructure Developers & Operators
+37.,Vishnu Prakash R,207.70,21.16,2588.80,0.00,67.13,68.20,657.21,44.22,24.68,Infrastructure Developers & Operators
+38.,Advait Infratech,1844.85,86.06,1883.16,0.00,7.23,106.57,59.73,46.18,37.86,Infrastructure Developers & Operators
+39.,Likhitha Infra.,460.00,27.47,1814.63,0.32,18.72,15.27,122.29,23.99,32.55,Infrastructure Developers & Operators
+40.,GVK Power Infra.,11.02,85.32,1740.26,0.00,-142.94,-181.79,68.70,-63.11,13.48,Infrastructure Developers & Operators
+41.,Om Infra,176.35,36.02,1698.25,0.28,3.15,-60.21,295.71,-14.70,14.17,Infrastructure Developers & Operators
+42.,GPT Infraproject,145.10,30.35,1688.15,1.04,14.86,43.99,295.00,10.03,21.92,Infrastructure Developers & Operators
+43.,Zodiac Energy,780.00,104.24,1143.52,0.00,5.69,253.42,106.63,71.71,22.52,Infrastructure Developers & Operators
+44.,Giriraj Civil,467.90,110.60,1119.24,0.00,8.52,,93.02,,19.75,Infrastructure Developers & Operators
+45.,Atmastco Ltd,377.70,57.14,934.23,0.00,10.09,,147.84,,27.74,Infrastructure Developers & Operators
+46.,W S Inds.,172.55,18.30,868.44,0.00,16.64,1785.45,89.12,75.78,25.18,Infrastructure Developers & Operators
+47.,Tantia Constr.,52.24,,809.73,0.00,-15.23,-155.85,22.66,-46.78,-1.19,Infrastructure Developers & Operators
+48.,Mold-Tek Technol,258.65,26.51,738.85,1.30,6.42,-36.50,42.24,-0.75,31.29,Infrastructure Developers & Operators
+49.,MBL Infrast,66.33,,728.00,0.00,-11.29,-124.90,24.04,-44.25,-0.59,Infrastructure Developers & Operators
+50.,Teerth,560.00,58.13,671.98,0.00,8.13,,67.55,,144.12,Infrastructure Developers & Operators
+,Median: 107 Co.,172.55,33.38,534.94,0.0,5.69,43.99,106.63,11.36,14.37,Infrastructure Developers & Operators
+51.,Haz.Multi Proj.,345.00,10.11,645.50,0.88,53.94,,463.93,,,Infrastructure Developers & Operators
+52.,Pratham EPC,336.35,59.45,597.37,0.00,4.81,,34.53,,47.90,Infrastructure Developers & Operators
+53.,Winsol,471.00,62.37,543.32,0.00,4.68,,41.72,,64.61,Infrastructure Developers & Operators
+54.,RPP Infra Proj.,141.00,9.39,534.94,0.00,13.61,-14.99,412.01,34.80,21.21,Infrastructure Developers & Operators
+55.,Markolines Pavem,257.00,27.89,491.05,0.30,11.22,,216.26,,26.56,Infrastructure Developers & Operators
+56.,Bharat Road,54.46,,457.19,0.00,-29.65,52.50,92.67,-1.61,3.92,Infrastructure Developers & Operators
+57.,Udayshivakumar,79.70,14.63,441.16,0.00,13.87,197.00,159.39,31.25,22.95,Infrastructure Developers & Operators
+58.,Kay Cee,366.90,61.41,402.10,0.00,3.76,,40.34,,28.62,Infrastructure Developers & Operators
+59.,K2 Infragen,313.00,31.70,394.96,0.00,6.38,,49.33,,50.89,Infrastructure Developers & Operators
+60.,AVP Infracon,152.00,20.75,379.71,0.00,11.02,,87.85,,38.33,Infrastructure Developers & Operators
+61.,A2Z Infra Engg.,21.23,,373.91,0.00,-0.46,53.34,97.97,8.00,-19.96,Infrastructure Developers & Operators
+62.,Atlantaa,42.88,4.24,349.48,0.00,223.84,313.88,91.37,2260.98,21.14,Infrastructure Developers & Operators
+63.,Konstelec Engg.,204.20,33.38,308.35,0.00,6.34,,122.33,,20.13,Infrastructure Developers & Operators
+64.,BGR Energy Sys.,41.79,,301.55,0.00,129.44,160.05,170.01,59.38,-15.92,Infrastructure Developers & Operators
+65.,RKEC Projects,123.53,14.90,296.34,0.00,5.45,7685.71,140.12,41.72,14.67,Infrastructure Developers & Operators
+66.,Brahmaputra Inf.,99.05,16.74,287.43,0.00,4.49,121.18,54.01,26.34,10.63,Infrastructure Developers & Operators
+67.,Madhav Infra,10.64,13.23,286.84,0.00,2.76,-47.61,150.77,-26.21,13.31,Infrastructure Developers & Operators
+68.,IL&FS Engg.,21.35,,279.94,0.00,-98.11,-20.40,84.66,0.34,,Infrastructure Developers & Operators
+69.,A B Infrabuild,56.05,23.81,278.82,0.00,4.41,,75.87,,31.33,Infrastructure Developers & Operators
+70.,Supreme Infra.,106.15,,272.79,0.00,-326.45,-0.54,28.61,23.00,,Infrastructure Developers & Operators
+71.,Maruti Infra.,217.00,222.35,271.25,0.00,-1.01,-229.58,11.97,-10.94,5.86,Infrastructure Developers & Operators
+72.,Rulka,620.05,43.21,264.05,0.00,3.72,,34.55,,83.49,Infrastructure Developers & Operators
+73.,IL&FS Transport,7.50,,246.72,0.00,-248.01,-1100.85,806.58,7.66,-18.13,Infrastructure Developers & Operators
+74.,Noida Tollbridg.,13.13,,244.48,0.00,-5.37,46.78,9.97,119.60,-11.03,Infrastructure Developers & Operators
+75.,Niraj Cement,52.91,12.61,212.46,0.00,7.47,129.14,133.99,-57.25,12.67,Infrastructure Developers & Operators
+,Median: 107 Co.,172.55,33.38,534.94,0.0,5.69,43.99,106.63,11.36,14.37,Infrastructure Developers & Operators
+76.,Refex Renewables,470.00,,211.02,0.00,-10.85,-38.97,17.81,-48.42,4.53,Infrastructure Developers & Operators
+77.,Univastu India,180.85,29.00,205.53,0.00,4.58,483.93,39.25,40.13,23.32,Infrastructure Developers & Operators
+78.,Ducon Tech,7.81,26.61,203.01,0.00,3.11,1729.41,107.12,3.40,9.42,Infrastructure Developers & Operators
+79.,Sadbhav Infra.,5.66,,199.37,0.00,-93.51,-110.80,174.33,11.02,10.15,Infrastructure Developers & Operators
+80.,Semac Consul,609.15,,186.82,0.82,-16.04,-459.19,24.99,-67.82,-27.36,Infrastructure Developers & Operators
+81.,BCPL Railway,110.35,34.43,184.55,0.64,0.62,-78.97,25.87,-24.97,8.77,Infrastructure Developers & Operators
+82.,Salasar Exterior,17.35,2976.96,178.62,0.00,0.14,,0.28,,0.19,Infrastructure Developers & Operators
+83.,Jayant Infratech,183.90,36.13,178.51,0.00,2.51,,57.77,,21.85,Infrastructure Developers & Operators
+84.,Rachana Infra.,88.20,45.20,164.09,0.00,2.90,,64.80,,6.94,Infrastructure Developers & Operators
+85.,Tarmat,75.41,108.59,160.73,0.00,-2.34,3.85,20.68,-50.71,1.45,Infrastructure Developers & Operators
+86.,Rudra Gas,180.00,31.73,150.07,0.00,2.22,,32.14,,31.17,Infrastructure Developers & Operators
+87.,MEP Infrast.,7.55,,138.88,0.00,-116.18,13.15,18.65,649.00,-20.94,Infrastructure Developers & Operators
+88.,Promax Power,53.99,98.52,134.98,0.00,0.93,,31.54,,14.59,Infrastructure Developers & Operators
+89.,HEC Infra Proj.,118.80,25.53,120.45,0.00,0.26,-43.48,28.18,44.74,13.34,Infrastructure Developers & Operators
+90.,Madhucon Project,14.24,,105.09,0.00,-6.95,91.02,420.95,-5.49,-1.69,Infrastructure Developers & Operators
+91.,Sh. Krish. Infr.,84.84,3110.67,93.32,0.00,0.01,,0.47,6.82,0.35,Infrastructure Developers & Operators
+92.,VSF Projects,52.90,,86.98,0.00,35.84,312.50,0.22,4.76,-0.30,Infrastructure Developers & Operators
+93.,Akash InfraProj.,37.25,273.07,62.78,0.00,3.14,31300.00,15.23,14.60,2.97,Infrastructure Developers & Operators
+94.,Sonu Infratech,78.50,21.40,61.62,0.00,1.77,,70.43,,12.41,Infrastructure Developers & Operators
+95.,CCL Internationa,30.90,40.34,59.30,0.00,0.95,82.69,16.31,86.61,4.49,Infrastructure Developers & Operators
+96.,ARSS Infra,24.30,,55.25,0.00,-21.87,-109450.00,75.40,-29.78,0.58,Infrastructure Developers & Operators
+97.,Atal Realtech,7.31,25.28,54.10,0.00,1.23,30.85,24.54,44.69,10.35,Infrastructure Developers & Operators
+98.,Modern Engineer.,173.75,14.70,53.68,0.00,1.63,285.23,40.74,-39.75,98.77,Infrastructure Developers & Operators
+99.,Conart Engineers,159.60,16.32,50.09,0.00,1.79,171.21,26.44,209.96,12.91,Infrastructure Developers & Operators
+100.,Gayatri Highways,1.56,,37.39,0.00,-168.26,190.51,1.18,-20.27,118.51,Infrastructure Developers & Operators
+,Median: 107 Co.,172.55,33.38,534.94,0.0,5.69,43.99,106.63,11.36,14.37,Infrastructure Developers & Operators
+101.,Shashijit Infra.,7.09,111.11,36.67,0.00,-1.02,-161.54,6.70,-32.66,5.68,Infrastructure Developers & Operators
+102.,Veer Energy,21.05,64.29,31.50,0.00,0.20,-68.75,3.27,52.09,0.97,Infrastructure Developers & Operators
+103.,Genus Prime,18.50,,27.61,0.00,0.00,-100.00,0.03,-40.00,-2.78,Infrastructure Developers & Operators
+104.,KCL Infra,1.43,27.76,24.15,0.00,-0.54,-1000.00,1.58,-74.39,3.51,Infrastructure Developers & Operators
+105.,P B A Infra.,11.22,1.09,15.14,0.00,-12.79,88.34,19.95,160.78,4.63,Infrastructure Developers & Operators
+106.,Manav Infra,19.35,11.41,13.23,0.00,1.07,,8.80,,41.91,Infrastructure Developers & Operators
+107.,Raunaq Intl.,37.41,,12.51,0.00,-1.07,65.26,1.06,-2.75,-16.19,Infrastructure Developers & Operators
+,Median: 107 Co.,172.55,33.38,534.94,0.0,5.69,43.99,106.63,11.36,14.37,Infrastructure Developers & Operators

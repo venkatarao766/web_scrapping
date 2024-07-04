@@ -1,0 +1,193 @@
+S.No.,Name,CMP(Rs),P/E,Mar Cap(Rs.Cr),Div Yld(%),NP Qtr(Rs.Cr),Qtr Profit Var(%),Sales Qtr(Rs.Cr.),Qtr Sales Var(%),ROCE(%),Company Name
+1.,Sun Pharma.Inds.,1555.90,37.28,373312.48,0.88,2658.74,28.70,11982.90,9.63,17.31,Pharmaceuticals
+2.,Divi's Lab.,4551.50,75.49,120828.05,0.66,538.00,67.60,2303.00,18.04,16.44,Pharmaceuticals
+3.,Cipla,1477.00,28.08,119270.44,0.88,931.87,48.80,6163.24,7.39,23.08,Pharmaceuticals
+4.,Zydus Lifesci.,1119.20,29.24,112617.70,0.27,1246.10,94.59,5533.80,10.44,22.40,Pharmaceuticals
+5.,Dr Reddy's Labs,6520.60,19.44,108783.02,0.62,1309.80,36.42,7113.80,12.65,26.86,Pharmaceuticals
+6.,Torrent Pharma.,2840.00,60.83,96114.12,0.99,449.00,56.45,2745.00,10.20,23.16,Pharmaceuticals
+7.,Mankind Pharma,2163.95,47.53,86695.44,0.00,454.17,61.63,2152.69,14.99,26.11,Pharmaceuticals
+8.,Lupin,1742.00,41.47,79420.61,0.24,368.22,52.33,4960.79,11.98,15.90,Pharmaceuticals
+9.,Aurobindo Pharma,1252.00,22.35,73359.47,0.36,907.35,92.29,7580.15,17.10,14.17,Pharmaceuticals
+10.,Alkem Lab,5014.95,31.71,59961.23,0.80,304.48,201.04,2935.82,1.14,19.55,Pharmaceuticals
+11.,Abbott India,27896.65,49.34,59280.44,1.48,287.06,24.04,1438.63,7.11,46.03,Pharmaceuticals
+12.,Glaxosmi. Pharma,2646.00,68.28,44824.84,1.21,194.48,52.78,929.80,18.08,51.33,Pharmaceuticals
+13.,Biocon,365.70,42.65,43905.99,0.14,222.90,-56.02,3917.10,3.79,6.12,Pharmaceuticals
+14.,Glenmark Pharma.,1301.10,,36715.53,0.20,-1214.27,-1849.11,3062.96,2.08,12.35,Pharmaceuticals
+15.,Gland Pharma,1812.95,38.67,29868.67,1.09,192.42,69.80,1537.45,95.85,13.58,Pharmaceuticals
+16.,Ipca Labs.,1174.00,50.41,29784.92,0.34,1.33,-15.89,2033.01,34.49,13.15,Pharmaceuticals
+17.,Syngene Intl.,724.60,56.26,29167.89,0.17,188.60,5.54,916.90,-7.79,14.69,Pharmaceuticals
+18.,Ajanta Pharma,2231.90,34.81,28103.56,1.64,202.72,65.82,1054.08,19.53,31.60,Pharmaceuticals
+19.,J B Chemicals &,1785.95,50.15,27720.27,0.49,126.16,43.97,861.73,13.04,25.09,Pharmaceuticals
+20.,Laurus Labs,459.15,153.05,24755.57,0.46,75.02,-27.15,1439.67,4.26,6.60,Pharmaceuticals
+21.,Natco Pharma,1218.75,15.71,21828.96,0.78,386.30,40.07,1068.30,18.98,30.05,Pharmaceuticals
+22.,Pfizer,4653.30,39.04,21287.81,0.75,178.86,26.56,546.63,-4.54,21.89,Pharmaceuticals
+23.,Piramal Pharma,158.80,1340.92,21052.92,0.07,101.27,129.22,2552.36,17.97,5.52,Pharmaceuticals
+24.,Suven Pharma,817.60,69.26,20813.22,0.12,53.37,-56.95,252.93,-31.52,21.07,Pharmaceuticals
+25.,Alembic Pharma,989.10,31.71,19442.08,1.13,178.21,16.78,1516.98,7.86,13.14,Pharmaceuticals
+,Median: 184 Co.,215.9,36.02,529.8,0.0,3.55,23.45,74.18,10.05,13.14,Pharmaceuticals
+26.,Astrazeneca Phar,7417.00,124.04,18542.54,0.34,39.48,-19.63,383.20,34.60,31.14,Pharmaceuticals
+27.,Concord Biotech,1620.50,57.60,16953.04,0.55,97.21,3.96,318.97,17.01,27.87,Pharmaceuticals
+28.,Sanofi India,6597.55,26.79,15194.20,2.53,136.60,-12.83,732.40,-0.56,71.10,Pharmaceuticals
+29.,Wockhardt,917.05,,14067.64,0.00,-177.00,-18.22,700.00,3.24,-0.83,Pharmaceuticals
+30.,ERIS Lifescience,1029.70,35.75,14011.61,0.70,79.63,15.42,550.93,36.78,11.34,Pharmaceuticals
+31.,Granules India,515.35,30.82,12490.43,0.30,129.65,8.39,1175.78,-1.65,15.34,Pharmaceuticals
+32.,Jubilant Pharmo,749.05,291.77,11932.38,0.68,-61.80,99.03,1758.60,4.80,6.74,Pharmaceuticals
+33.,Glenmark Life,915.85,23.85,11221.66,2.45,97.94,-33.08,536.60,-13.64,28.08,Pharmaceuticals
+34.,Caplin Point Lab,1424.65,23.71,10828.83,0.31,121.23,19.75,453.22,16.43,25.24,Pharmaceuticals
+35.,Neuland Labs.,7707.80,32.93,9889.01,0.18,67.56,-20.09,385.01,-5.42,33.23,Pharmaceuticals
+36.,Strides Pharma,954.00,3660.03,8768.85,0.16,10.45,165.34,1084.04,9.90,7.91,Pharmaceuticals
+37.,P & G Health Ltd,5168.25,40.10,8579.30,1.84,46.56,-21.34,252.48,-21.33,45.47,Pharmaceuticals
+38.,FDC,503.90,26.91,8204.01,0.00,46.28,50.95,462.03,6.26,19.39,Pharmaceuticals
+39.,SPARC,240.00,,7788.54,0.00,-106.69,-30.13,16.56,-65.28,-108.93,Pharmaceuticals
+40.,Marksans Pharma,167.25,24.16,7579.16,0.30,77.64,-5.24,560.01,15.23,20.61,Pharmaceuticals
+41.,Blue Jet Health,423.60,42.97,7347.99,0.00,39.65,-21.79,183.95,-15.34,30.00,Pharmaceuticals
+42.,Orchid Pharma,1127.70,62.06,5719.58,0.00,32.96,23.45,217.10,3.43,9.32,Pharmaceuticals
+43.,Shilpa Medicare,581.90,184.42,5690.50,0.00,24.50,359.45,291.69,10.67,5.27,Pharmaceuticals
+44.,Ami Organics,1388.75,95.45,5680.77,0.22,25.68,-6.71,224.96,20.70,16.02,Pharmaceuticals
+45.,Aarti Pharma,621.70,25.92,5634.20,0.31,65.25,52.20,505.77,4.27,16.65,Pharmaceuticals
+46.,Aarti Drugs,544.75,29.26,5008.13,0.19,47.31,-15.65,619.99,-16.49,14.75,Pharmaceuticals
+47.,Advanced Enzyme,398.70,31.03,4458.42,1.30,29.87,8.23,157.82,13.78,15.16,Pharmaceuticals
+48.,Hikal,340.95,60.46,4203.88,0.36,33.97,-5.64,514.10,-5.72,7.81,Pharmaceuticals
+49.,Unichem Labs.,532.30,,3747.69,0.00,-129.31,42.63,431.70,7.36,0.69,Pharmaceuticals
+50.,Gufic BioScience,368.60,42.88,3696.20,0.03,20.05,10.71,194.99,12.68,16.93,Pharmaceuticals
+,Median: 184 Co.,215.9,36.02,529.8,0.0,3.55,23.45,74.18,10.05,13.14,Pharmaceuticals
+51.,Guj. Themis Bio.,475.00,58.31,3450.57,0.21,15.89,35.93,42.01,52.27,44.99,Pharmaceuticals
+52.,Sequent Scien.,134.80,,3363.02,0.00,1.28,107.45,361.20,-1.49,0.90,Pharmaceuticals
+53.,Supriya Lifesci.,403.90,27.28,3250.68,0.15,36.93,-3.40,158.18,11.18,21.75,Pharmaceuticals
+54.,Indoco Remedies,345.05,35.81,3180.79,0.65,22.03,-65.71,449.64,5.02,10.33,Pharmaceuticals
+55.,Innova Captab,509.00,30.89,2912.74,0.00,28.72,66.49,262.63,9.00,18.45,Pharmaceuticals
+56.,Morepen Labs.,56.35,29.93,2880.45,0.00,28.74,243.20,423.07,16.33,16.83,Pharmaceuticals
+57.,Jeena Sikho,1100.00,39.52,2734.62,0.10,37.38,,167.05,,74.50,Pharmaceuticals
+58.,Dishman Carbogen,173.05,,2713.15,0.00,-69.92,-175.62,654.71,5.84,0.05,Pharmaceuticals
+59.,RPG LifeScience.,1582.00,30.10,2616.47,1.01,13.24,27.92,126.99,7.17,34.65,Pharmaceuticals
+60.,IOL Chemicals,429.00,18.63,2518.48,1.14,28.19,-56.81,503.92,-14.18,12.30,Pharmaceuticals
+61.,Solara Active,564.60,,2371.77,0.00,-255.45,-5373.26,299.43,-21.33,-8.65,Pharmaceuticals
+62.,Suven Life Scie.,105.35,,2297.43,0.00,-26.54,3.98,2.39,-8.43,-35.01,Pharmaceuticals
+63.,Amrutanjan Healt,785.80,50.52,2271.80,0.61,13.66,7.56,127.06,26.65,21.34,Pharmaceuticals
+64.,Hester Bios,2549.45,114.80,2168.78,0.33,6.40,9.27,79.26,17.77,9.32,Pharmaceuticals
+65.,SMS Pharma.,246.35,42.17,2085.37,0.12,15.92,97.27,245.80,64.49,11.22,Pharmaceuticals
+66.,Sigachi Indust.,62.93,36.08,2065.36,0.16,15.17,105.46,104.13,43.79,17.22,Pharmaceuticals
+67.,Themis Medicare,209.30,44.26,1926.41,0.24,6.64,-21.05,97.82,22.12,13.88,Pharmaceuticals
+68.,Windlas Biotech,713.00,25.60,1490.20,0.55,16.99,48.51,171.29,21.73,18.17,Pharmaceuticals
+69.,NGL Fine Chem,2388.00,38.31,1475.78,0.07,10.85,27.20,95.61,28.91,18.82,Pharmaceuticals
+70.,Lincoln Pharma.,663.15,14.23,1328.27,0.23,18.60,48.09,142.49,26.70,22.53,Pharmaceuticals
+71.,Kopran,255.00,24.14,1229.37,1.19,18.62,131.59,186.08,24.99,13.78,Pharmaceuticals
+72.,Remus Pharma.,2061.50,56.41,1214.64,0.07,20.33,,183.46,,,Pharmaceuticals
+73.,Syncom Formul.,12.67,50.39,1190.98,0.00,6.75,-20.21,73.27,19.39,10.39,Pharmaceuticals
+74.,Bliss GVS Pharma,111.30,12.39,1165.69,0.47,-4.92,374.25,198.13,7.22,14.42,Pharmaceuticals
+75.,Beta Drugs Ltd,1205.00,31.79,1158.46,0.00,16.56,,154.45,,36.02,Pharmaceuticals
+,Median: 184 Co.,215.9,36.02,529.8,0.0,3.55,23.45,74.18,10.05,13.14,Pharmaceuticals
+76.,Anuh Pharma,230.50,19.26,1155.04,1.05,15.36,59.67,163.89,4.18,29.35,Pharmaceuticals
+77.,Shree Ganesh Rem,856.00,39.09,1098.64,0.06,12.59,87.91,37.33,26.07,27.59,Pharmaceuticals
+78.,Bajaj Healthcare,341.05,32.86,941.26,0.31,-29.92,10.58,133.90,-13.11,8.22,Pharmaceuticals
+79.,Jagsonpal Pharma,343.00,40.40,907.48,1.46,3.55,-36.61,43.49,-21.57,16.99,Pharmaceuticals
+80.,Bharat Parenter.,1544.90,84.40,892.13,0.07,-2.56,-113.22,67.82,33.06,6.89,Pharmaceuticals
+81.,Panacea Biotec,138.00,,845.30,0.00,-1.99,-298.29,136.46,5.84,-3.60,Pharmaceuticals
+82.,Ind-Swift Labs.,129.80,5.19,766.96,0.00,238.82,93.79,393.33,29.28,19.76,Pharmaceuticals
+83.,Albert David,1319.90,10.02,753.67,0.88,12.91,246.11,89.06,9.38,27.76,Pharmaceuticals
+84.,Nectar Lifesci.,31.64,142.17,709.51,0.00,0.59,-83.97,441.38,13.52,5.98,Pharmaceuticals
+85.,Sakar Healthcare,320.90,59.82,697.93,0.00,3.12,-20.61,43.06,5.93,7.53,Pharmaceuticals
+86.,Medicamen Biotec,513.00,68.70,652.25,0.20,2.04,-45.89,47.32,22.37,7.76,Pharmaceuticals
+87.,Accent Microcell,289.00,19.61,608.15,0.00,16.07,,138.63,,57.75,Pharmaceuticals
+88.,Valiant Laborato,138.80,1773.79,603.08,0.00,-1.22,-115.58,30.58,-65.99,-0.29,Pharmaceuticals
+89.,Vikram Thermo,186.45,23.01,584.67,0.26,4.93,26.09,31.47,3.90,30.77,Pharmaceuticals
+90.,Kilitch Drugs,355.00,42.07,570.92,0.00,3.68,23.79,44.82,-1.45,13.48,Pharmaceuticals
+91.,Zim Laboratories,116.30,32.84,566.67,0.00,8.09,11.74,117.86,11.81,9.98,Pharmaceuticals
+92.,Wanbury,163.45,17.49,535.24,0.00,33.63,414.29,139.41,4.84,58.06,Pharmaceuticals
+93.,Megasoft,71.08,,524.36,0.00,-8.14,-424.30,0.00,,7.58,Pharmaceuticals
+94.,Fermenta Biotec.,176.00,,518.04,0.73,-7.14,-2133.13,97.34,-7.44,3.06,Pharmaceuticals
+95.,Kwality Pharma,498.00,17.86,516.76,0.00,4.23,7.21,91.98,33.69,15.93,Pharmaceuticals
+96.,Venus Remedies,376.00,17.68,502.61,0.00,10.51,-4.97,195.16,25.39,8.67,Pharmaceuticals
+97.,Titan Biotech,599.00,20.94,495.00,0.32,4.84,4.31,39.92,8.36,26.02,Pharmaceuticals
+98.,Kerala Ayurveda,410.45,,493.91,0.00,0.10,-5.56,27.39,14.89,6.26,Pharmaceuticals
+99.,Shukra Pharma.,102.90,24.31,450.57,0.12,3.99,0.25,10.88,-76.48,44.25,Pharmaceuticals
+100.,Fredun Pharma,868.15,26.03,406.70,0.08,5.06,30.08,118.03,47.89,17.48,Pharmaceuticals
+,Median: 184 Co.,215.9,36.02,529.8,0.0,3.55,23.45,74.18,10.05,13.14,Pharmaceuticals
+101.,Jenburkt Pharma,876.50,14.92,386.83,1.72,7.88,24.09,38.84,10.34,26.19,Pharmaceuticals
+102.,Lyka Labs,108.05,,385.61,0.00,-2.13,18.87,27.77,24.87,3.78,Pharmaceuticals
+103.,Zenotech Lab.,61.00,44.85,372.27,0.00,0.66,-82.02,9.11,-17.03,12.89,Pharmaceuticals
+104.,Gennex Lab.,15.18,26.17,345.24,0.00,4.50,120.59,35.52,70.77,13.83,Pharmaceuticals
+105.,Medico Remedies,40.35,40.39,334.84,0.00,3.10,75.14,41.32,47.62,21.31,Pharmaceuticals
+106.,Infinium Pharma,223.00,27.46,310.32,0.00,5.22,,74.18,,32.82,Pharmaceuticals
+107.,Par Drugs & Che.,243.05,20.67,299.07,0.00,3.72,7.83,22.82,-6.82,25.02,Pharmaceuticals
+108.,Natural Capsules,319.80,53.80,298.56,0.31,0.97,-45.81,40.22,6.91,4.52,Pharmaceuticals
+109.,Denis Chem Lab,188.95,23.51,262.18,1.04,2.73,250.00,39.85,0.30,16.06,Pharmaceuticals
+110.,Sanjiv.Parant.,222.50,42.12,259.97,0.00,1.26,26.00,12.86,58.37,55.28,Pharmaceuticals
+111.,Trident Lifeline,224.95,43.54,258.67,0.00,2.83,100.00,26.05,44.72,18.14,Pharmaceuticals
+112.,SMS Lifesciences,844.95,40.43,255.46,0.18,6.47,561.83,89.99,41.21,6.86,Pharmaceuticals
+113.,Quest,155.00,25.17,254.01,0.00,3.77,,41.55,,79.50,Pharmaceuticals
+114.,Coral Labs.,685.00,15.39,244.56,0.00,5.79,758.43,28.89,152.53,12.57,Pharmaceuticals
+115.,Kimia Bioscien.,50.50,,238.93,0.00,1.80,135.16,30.30,33.72,-4.16,Pharmaceuticals
+116.,Lactose (India),188.60,34.98,237.43,0.00,2.40,169.66,29.40,13.12,17.97,Pharmaceuticals
+117.,Brooks Lab.,86.15,,226.10,0.00,-9.61,-124.01,17.72,40.52,-24.68,Pharmaceuticals
+118.,Panch.Organics,185.40,15.46,218.46,1.82,2.78,-7.02,31.27,5.89,17.35,Pharmaceuticals
+119.,Bafna Pharma.,90.02,28.97,212.95,0.00,1.46,-72.81,41.40,-1.99,9.55,Pharmaceuticals
+120.,BDH Industries,345.15,20.14,198.81,1.17,2.96,54.97,27.11,19.32,20.61,Pharmaceuticals
+121.,Smruthi Organic,170.00,54.17,194.59,1.17,1.52,120.29,39.66,7.83,8.22,Pharmaceuticals
+122.,Bal Pharma,121.65,26.03,192.25,0.82,5.53,241.88,94.63,14.77,12.05,Pharmaceuticals
+123.,Alpa Laboratorie,89.61,11.23,188.53,0.00,3.55,-23.87,23.61,-19.03,14.32,Pharmaceuticals
+124.,Tyche Industries,179.70,15.05,184.20,1.12,2.10,-48.78,14.20,-43.85,13.66,Pharmaceuticals
+125.,Syschem (India),46.06,66.53,183.63,0.00,-0.26,-166.67,74.71,52.75,10.72,Pharmaceuticals
+,Median: 184 Co.,215.9,36.02,529.8,0.0,3.55,23.45,74.18,10.05,13.14,Pharmaceuticals
+126.,Mangalam Drugs,108.70,,172.06,0.00,3.55,180.87,102.24,12.22,1.19,Pharmaceuticals
+127.,Sotac Pharma.,147.95,37.25,163.48,0.00,2.55,82.46,52.19,30.99,14.11,Pharmaceuticals
+128.,Pharmaids Pharma,45.83,,161.64,0.00,-6.33,10.39,5.81,,-27.78,Pharmaceuticals
+129.,Medicamen,131.85,64.28,154.26,0.00,,,,,16.62,Pharmaceuticals
+130.,Krebs Biochem,71.15,,153.40,0.00,-5.85,15.71,11.97,4.45,-10.44,Pharmaceuticals
+131.,Aarey Drugs,49.38,26.76,125.32,0.00,2.15,497.22,210.35,29.14,4.44,Pharmaceuticals
+132.,Bharat Immunolog,28.85,,124.59,0.00,-4.92,-59.74,0.00,-100.00,-9.27,Pharmaceuticals
+133.,Oxygenta Pharma,32.99,,117.07,0.00,8.02,283.25,10.55,28.82,-41.83,Pharmaceuticals
+134.,Auro Labs.,187.00,14.96,116.50,0.00,2.32,30.34,12.06,-10.80,20.38,Pharmaceuticals
+135.,Mercury Labs,966.00,20.52,115.92,0.36,1.91,416.22,17.37,-10.60,13.54,Pharmaceuticals
+136.,Parnax Lab,100.10,11.96,114.98,0.00,2.24,55.56,46.37,13.35,12.92,Pharmaceuticals
+137.,Ind-Swift,21.19,8.06,114.78,0.00,37.54,601.87,135.23,27.72,25.40,Pharmaceuticals
+138.,Lasa Supergeneri,22.65,,113.48,0.00,-15.30,-233.27,22.82,-35.39,-6.50,Pharmaceuticals
+139.,Source Natural,176.00,64.02,113.30,0.00,0.32,-73.60,6.83,0.00,18.39,Pharmaceuticals
+140.,Everest Organics,138.55,791.73,110.84,0.00,0.06,-45.45,52.62,3.68,6.05,Pharmaceuticals
+141.,Zenith,63.85,9.96,109.49,0.00,3.84,,62.21,,,Pharmaceuticals
+142.,Biofil Chemicals,67.00,153.55,109.04,0.00,0.25,19.05,15.20,11.60,4.94,Pharmaceuticals
+143.,Samrat Pharma,337.75,48.30,104.36,0.30,1.40,289.19,82.68,19.51,4.14,Pharmaceuticals
+144.,Vasundhara Rasy.,305.90,16.59,97.18,0.64,2.13,395.35,11.14,12.41,25.21,Pharmaceuticals
+145.,Godavari Drugs,105.45,14.15,79.41,0.00,2.66,138.05,38.64,3.40,14.57,Pharmaceuticals
+146.,Makers Labs.,133.05,,78.51,0.00,-0.97,-377.14,27.81,-5.57,-1.57,Pharmaceuticals
+147.,ANG Lifesciences,52.25,,68.22,0.00,-3.60,54.67,34.08,6.90,1.59,Pharmaceuticals
+148.,Macro Intl.,63.36,79.84,62.28,0.00,0.56,460.00,12.25,257.14,7.56,Pharmaceuticals
+149.,Vivo Bio Tech,40.48,23.86,60.35,0.00,0.74,-64.08,11.76,-20.33,9.80,Pharmaceuticals
+150.,Cian Healthcare,24.00,239.96,60.01,0.00,0.25,,61.70,,4.94,Pharmaceuticals
+,Median: 184 Co.,215.9,36.02,529.8,0.0,3.55,23.45,74.18,10.05,13.14,Pharmaceuticals
+151.,Shelter Pharma,50.70,9.44,58.61,0.00,3.12,,20.71,,51.14,Pharmaceuticals
+152.,Sandu Pharma.,60.50,40.04,58.44,1.25,0.59,118.52,15.60,2.23,5.36,Pharmaceuticals
+153.,Walpar Nutrition,121.00,35.96,56.80,0.00,1.29,,31.38,,13.23,Pharmaceuticals
+154.,Vineet Laborator,59.60,53.37,54.94,0.00,1.92,-45.92,37.05,-35.23,7.15,Pharmaceuticals
+155.,Shree Ganesh Bio,1.27,81.62,50.64,0.00,0.54,440.00,3.78,-52.63,1.37,Pharmaceuticals
+156.,Vista Pharma.,13.00,,50.47,0.00,0.09,130.00,3.13,,-8.91,Pharmaceuticals
+157.,JFL Life,42.25,14.03,46.47,0.00,2.31,,27.30,,11.76,Pharmaceuticals
+158.,Roopa Industries,58.44,30.24,45.95,0.00,0.46,100.00,22.08,23.56,12.97,Pharmaceuticals
+159.,Veerhealth Care,20.99,102.39,41.98,0.00,-0.55,-152.88,3.37,-9.65,5.96,Pharmaceuticals
+160.,Concord Drugs,39.70,94.52,39.70,0.00,-0.35,-600.00,14.47,25.39,4.54,Pharmaceuticals
+161.,Phaarmasia,54.00,,36.88,0.00,0.47,622.22,9.99,33.20,-4.65,Pharmaceuticals
+162.,Panjon,21.28,216.94,34.69,0.00,0.05,,5.20,300.00,1.18,Pharmaceuticals
+163.,Guj. Terce Labs.,46.01,142.26,34.13,0.00,0.54,-32.50,12.21,-5.28,9.72,Pharmaceuticals
+164.,Colinz Labs,69.82,65.13,31.92,0.00,0.14,7.69,1.63,-5.23,7.70,Pharmaceuticals
+165.,Zenith Health,5.10,137.02,27.41,0.00,-0.29,-31.82,3.07,86.06,3.98,Pharmaceuticals
+166.,Vilin Bio Med,19.00,165.69,26.51,0.00,-0.61,,8.16,,6.53,Pharmaceuticals
+167.,Guj. Inject(Ker),15.92,291.50,23.32,0.00,0.04,300.00,5.42,,2.64,Pharmaceuticals
+168.,Ishita Drugs,67.00,26.71,20.03,0.00,0.28,55.56,4.50,71.10,10.77,Pharmaceuticals
+169.,Decipher Labs,17.67,,17.84,0.00,1.20,128.10,10.59,8.28,-4.30,Pharmaceuticals
+170.,Ortin Labs.,20.53,,16.69,0.00,-4.14,-2335.29,0.30,-79.87,-60.19,Pharmaceuticals
+171.,Beryl Drugs,32.75,21.58,16.60,0.00,-0.35,-683.33,3.21,-47.29,11.05,Pharmaceuticals
+172.,Norris Medicines,14.24,,14.24,0.00,0.17,131.48,1.49,23.14,-8.66,Pharmaceuticals
+173.,Bacil Pharma,20.42,,12.03,0.00,-0.04,50.00,0.00,,-4.94,Pharmaceuticals
+174.,Ganga Pharma.,24.67,238.60,11.93,0.00,0.03,,1.42,,3.30,Pharmaceuticals
+175.,Parmax Pharma,31.60,,11.82,0.00,-1.45,-952.94,4.26,-33.23,-58.35,Pharmaceuticals
+,Median: 184 Co.,215.9,36.02,529.8,0.0,3.55,23.45,74.18,10.05,13.14,Pharmaceuticals
+176.,Chemo Pharma Lab,69.99,8.76,10.50,0.00,-0.29,-93.33,0.00,,13.44,Pharmaceuticals
+177.,Unjha Formul.,23.37,37.39,10.46,0.00,-0.18,18.18,4.43,55.99,19.69,Pharmaceuticals
+178.,Kobo Biotech,4.09,,9.75,0.00,-1.26,29.61,0.00,,-52.90,Pharmaceuticals
+179.,Adline Chem Lab,14.45,,8.46,0.00,-0.04,-300.00,0.00,,,Pharmaceuticals
+180.,Welcure Drugs,5.80,,7.83,0.00,-0.02,-111.76,0.00,,-12.59,Pharmaceuticals
+181.,MPS Pharmaa,3.49,,6.67,0.00,-0.24,25.00,0.00,,-9.15,Pharmaceuticals
+182.,Desh Rakshak,9.26,9.56,4.11,0.00,0.16,33.33,2.49,50.91,6.75,Pharmaceuticals
+183.,Kabra Drugs,7.91,,3.47,0.00,-0.37,-164.29,0.00,,-43.02,Pharmaceuticals
+184.,Raymed Labs,2.39,,1.02,0.00,-0.05,37.50,0.00,,,Pharmaceuticals
+,Median: 184 Co.,215.9,36.02,529.8,0.0,3.55,23.45,74.18,10.05,13.14,Pharmaceuticals
